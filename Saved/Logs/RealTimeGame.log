@@ -1809,3 +1809,346 @@ Saving these assets will allow them to be unloaded..
 [2019.12.28-20.57.22:651][ 23]AssetCheck: New page: Asset Save: multiple assets
 [2019.12.28-20.57.22:651][ 23]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
 [2019.12.28-20.57.22:651][ 23]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.28-21.11.49:197][493]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Shooting Arrow.fbx)
+[2019.12.28-21.11.49:578][493]LogFbx: Loading FBX Scene from ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Shooting Arrow.fbx
+[2019.12.28-21.11.49:650][493]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.28-21.12.00:396][493]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(0) Hips
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(1) Spine
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(2) Spine1
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(3) Spine2
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(4) Neck
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(5) Head
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(6) RightEye
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(7) LeftEye
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(8) HeadTop_End
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(9) LeftShoulder
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(10) LeftArm
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(11) LeftForeArm
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(12) LeftHand
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(25) LeftHandRing1
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(26) LeftHandRing2
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(27) LeftHandRing3
+[2019.12.28-21.12.00:972][493]LogFbx: SortedLinks :(28) LeftHandRing4
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(33) RightShoulder
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(34) RightArm
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(35) RightForeArm
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(36) RightHand
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(37) RightHandPinky1
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(38) RightHandPinky2
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(39) RightHandPinky3
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(40) RightHandPinky4
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(41) RightHandRing1
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(42) RightHandRing2
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(43) RightHandRing3
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(44) RightHandRing4
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(49) RightHandIndex1
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(50) RightHandIndex2
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(51) RightHandIndex3
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(52) RightHandIndex4
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(53) RightHandThumb1
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(54) RightHandThumb2
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(55) RightHandThumb3
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(56) RightHandThumb4
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(57) LeftUpLeg
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(58) LeftLeg
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(59) LeftFoot
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(60) LeftToeBase
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(61) LeftToe_End
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(62) RightUpLeg
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(63) RightLeg
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(64) RightFoot
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(65) RightToeBase
+[2019.12.28-21.12.00:973][493]LogFbx: SortedLinks :(66) RightToe_End
+[2019.12.28-21.12.00:974][493]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.28-21.12.00:992][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Shooting_Arrow': Can't find file.
+[2019.12.28-21.12.00:992][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Shooting_Arrow': Can't find file.
+[2019.12.28-21.12.05:149][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/BowAnim/Shooting_Arrow.Shooting_Arrow
+[2019.12.28-21.12.05:154][493]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/BowAnim/Shooting_Arrow.Shooting_Arrow) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.28-21.12.05:462][493]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Standing Aim Recoil.fbx)
+[2019.12.28-21.12.05:476][493]LogFbx: Loading FBX Scene from ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Standing Aim Recoil.fbx
+[2019.12.28-21.12.05:496][493]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(0) Hips
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(1) Spine
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(2) Spine1
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(3) Spine2
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(4) Neck
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(5) Head
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(6) RightEye
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(7) LeftEye
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(8) HeadTop_End
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(9) LeftShoulder
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(10) LeftArm
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(11) LeftForeArm
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(12) LeftHand
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(25) LeftHandRing1
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(26) LeftHandRing2
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(27) LeftHandRing3
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(28) LeftHandRing4
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(33) RightShoulder
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(34) RightArm
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(35) RightForeArm
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(36) RightHand
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(37) RightHandPinky1
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(38) RightHandPinky2
+[2019.12.28-21.12.05:499][493]LogFbx: SortedLinks :(39) RightHandPinky3
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(40) RightHandPinky4
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(41) RightHandRing1
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(42) RightHandRing2
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(43) RightHandRing3
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(44) RightHandRing4
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(49) RightHandIndex1
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(50) RightHandIndex2
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(51) RightHandIndex3
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(52) RightHandIndex4
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(53) RightHandThumb1
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(54) RightHandThumb2
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(55) RightHandThumb3
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(56) RightHandThumb4
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(57) LeftUpLeg
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(58) LeftLeg
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(59) LeftFoot
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(60) LeftToeBase
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(61) LeftToe_End
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(62) RightUpLeg
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(63) RightLeg
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(64) RightFoot
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(65) RightToeBase
+[2019.12.28-21.12.05:500][493]LogFbx: SortedLinks :(66) RightToe_End
+[2019.12.28-21.12.05:500][493]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.28-21.12.05:500][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Standing_Aim_Recoil': Can't find file.
+[2019.12.28-21.12.05:500][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Standing_Aim_Recoil': Can't find file.
+[2019.12.28-21.12.06:466][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/BowAnim/Standing_Aim_Recoil.Standing_Aim_Recoil
+[2019.12.28-21.12.06:466][493]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/BowAnim/Standing_Aim_Recoil.Standing_Aim_Recoil) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.28-21.12.06:627][493]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Standing Idle 01.fbx)
+[2019.12.28-21.12.06:666][493]LogFbx: Loading FBX Scene from ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Standing Idle 01.fbx
+[2019.12.28-21.12.06:690][493]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(0) Hips
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(1) Spine
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(2) Spine1
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(3) Spine2
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(4) Neck
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(5) Head
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(6) RightEye
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(7) LeftEye
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(8) HeadTop_End
+[2019.12.28-21.12.06:694][493]LogFbx: SortedLinks :(9) LeftShoulder
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(10) LeftArm
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(11) LeftForeArm
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(12) LeftHand
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(25) LeftHandRing1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(26) LeftHandRing2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(27) LeftHandRing3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(28) LeftHandRing4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(33) RightShoulder
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(34) RightArm
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(35) RightForeArm
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(36) RightHand
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(37) RightHandPinky1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(38) RightHandPinky2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(39) RightHandPinky3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(40) RightHandPinky4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(41) RightHandRing1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(42) RightHandRing2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(43) RightHandRing3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(44) RightHandRing4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(49) RightHandIndex1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(50) RightHandIndex2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(51) RightHandIndex3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(52) RightHandIndex4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(53) RightHandThumb1
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(54) RightHandThumb2
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(55) RightHandThumb3
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(56) RightHandThumb4
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(57) LeftUpLeg
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(58) LeftLeg
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(59) LeftFoot
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(60) LeftToeBase
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(61) LeftToe_End
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(62) RightUpLeg
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(63) RightLeg
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(64) RightFoot
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(65) RightToeBase
+[2019.12.28-21.12.06:695][493]LogFbx: SortedLinks :(66) RightToe_End
+[2019.12.28-21.12.06:696][493]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.28-21.12.06:696][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Standing_Idle_01': Can't find file.
+[2019.12.28-21.12.06:696][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Standing_Idle_01': Can't find file.
+[2019.12.28-21.12.07:286][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/BowAnim/Standing_Idle_01.Standing_Idle_01
+[2019.12.28-21.12.07:286][493]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/BowAnim/Standing_Idle_01.Standing_Idle_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.28-21.12.07:335][493]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Standing Idle 03 Examine.fbx)
+[2019.12.28-21.12.07:376][493]LogFbx: Loading FBX Scene from ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/assets/_Anim/Standing Idle 03 Examine.fbx
+[2019.12.28-21.12.07:400][493]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(0) Hips
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(1) Spine
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(2) Spine1
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(3) Spine2
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(4) Neck
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(5) Head
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(6) RightEye
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(7) LeftEye
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(8) HeadTop_End
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(9) LeftShoulder
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(10) LeftArm
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(11) LeftForeArm
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(12) LeftHand
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2019.12.28-21.12.07:404][493]LogFbx: SortedLinks :(25) LeftHandRing1
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(26) LeftHandRing2
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(27) LeftHandRing3
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(28) LeftHandRing4
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(33) RightShoulder
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(34) RightArm
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(35) RightForeArm
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(36) RightHand
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(37) RightHandPinky1
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(38) RightHandPinky2
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(39) RightHandPinky3
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(40) RightHandPinky4
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(41) RightHandRing1
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(42) RightHandRing2
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(43) RightHandRing3
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(44) RightHandRing4
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(49) RightHandIndex1
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(50) RightHandIndex2
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(51) RightHandIndex3
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(52) RightHandIndex4
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(53) RightHandThumb1
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(54) RightHandThumb2
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(55) RightHandThumb3
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(56) RightHandThumb4
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(57) LeftUpLeg
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(58) LeftLeg
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(59) LeftFoot
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(60) LeftToeBase
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(61) LeftToe_End
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(62) RightUpLeg
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(63) RightLeg
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(64) RightFoot
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(65) RightToeBase
+[2019.12.28-21.12.07:405][493]LogFbx: SortedLinks :(66) RightToe_End
+[2019.12.28-21.12.07:405][493]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.28-21.12.07:406][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine': Can't find file.
+[2019.12.28-21.12.07:406][493]LogLinker: Failed to load '/Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine': Can't find file.
+[2019.12.28-21.12.08:002][493]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine.Standing_Idle_03_Examine
+[2019.12.28-21.12.08:002][493]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine.Standing_Idle_03_Examine) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.28-21.12.10:577][540]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Animations/BowAnim/Shooting_Arrow.Shooting_Arrow
+[2019.12.28-21.12.11:380][540]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.28-21.12.11:854][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.28-21.12.11:871][540]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0033 seconds. Added 1 classes and 0 folders.
+[2019.12.28-21.12.12:628][540]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.28-21.12.14:505][540]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.28-21.12.40:658][927]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Characters/bow/erika_archer_bow_arrow_PhysicsAsset.erika_archer_bow_arrow_PhysicsAsset
+[2019.12.28-21.12.41:376][927]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2019.12.28-21.12.41:426][927]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.12.28-21.12.45:223][ 51]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Characters/bow/erika_archer_bow_arrow.erika_archer_bow_arrow
+[2019.12.28-21.12.45:260][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.28-21.12.45:332][ 51]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.28-21.12.48:455][175]LogSlate: Window 'Shooting_Arrow' being destroyed
+[2019.12.28-21.12.48:481][175]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-21.12.48:501][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.28-21.12.48:844][175]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-21.12.48:844][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.28-21.12.49:278][175]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-21.12.49:278][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.28-21.12.54:587][470]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-21.12.54:587][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.28-21.13.02:333][866]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-21.13.02:333][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.28-21.17.24:345][956]LogUObjectHash: Compacting FUObjectHashTables data took  11.10ms
+[2019.12.28-21.17.24:450][956]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.941
+[2019.12.28-21.17.24:616][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animations/BowAnim/Shooting_Arrow] ([1] browsable assets)...
+[2019.12.28-21.17.24:736][956]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animations/BowAnim/Shooting_Arrow.Shooting_Arrow]
+[2019.12.28-21.17.24:736][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animations/BowAnim/Shooting_Arrow]
+[2019.12.28-21.17.25:182][956]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Shooting_Arrow_Auto1C94FFA38411AC2C6FFBF9FB92236C3B1.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Autosaves/Game/Assets/Animations/BowAnim/Shooting_Arrow_Auto1.uasset'
+[2019.12.28-21.17.25:196][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animations/BowAnim/Standing_Aim_Recoil] ([1] browsable assets)...
+[2019.12.28-21.17.25:226][956]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animations/BowAnim/Standing_Aim_Recoil.Standing_Aim_Recoil]
+[2019.12.28-21.17.25:226][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animations/BowAnim/Standing_Aim_Recoil]
+[2019.12.28-21.17.25:239][956]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Standing_Aim_Recoil_Auto112D4ED474AD094ADDA3372A4B552B077.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Autosaves/Game/Assets/Animations/BowAnim/Standing_Aim_Recoil_Auto1.uasset'
+[2019.12.28-21.17.25:241][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animations/BowAnim/Standing_Idle_01] ([1] browsable assets)...
+[2019.12.28-21.17.25:271][956]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animations/BowAnim/Standing_Idle_01.Standing_Idle_01]
+[2019.12.28-21.17.25:271][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animations/BowAnim/Standing_Idle_01]
+[2019.12.28-21.17.25:281][956]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Standing_Idle_01_Auto19A334BA04F0F54F278055F82AB7BA151.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Autosaves/Game/Assets/Animations/BowAnim/Standing_Idle_01_Auto1.uasset'
+[2019.12.28-21.17.25:366][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine] ([1] browsable assets)...
+[2019.12.28-21.17.25:396][956]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine.Standing_Idle_03_Examine]
+[2019.12.28-21.17.25:396][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine]
+[2019.12.28-21.17.25:509][956]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Standing_Idle_03_Examine_Auto161FCBEA646AEF5139403098EE050DC90.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Autosaves/Game/Assets/Animations/BowAnim/Standing_Idle_03_Examine_Auto1.uasset'
+[2019.12.28-21.17.25:514][956]LogFileHelpers: Auto-saving content packages took 1.062
