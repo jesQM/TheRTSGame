@@ -10537,3 +10537,43 @@ Script Stack (0 frames):
 [2019.12.29-01.27.40:556][643]AssetCheck: New page: Asset Save: multiple assets
 [2019.12.29-01.27.40:556][643]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
 [2019.12.29-01.27.40:556][643]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-01.28.16:730][902]LogUObjectHash: Compacting FUObjectHashTables data took  18.96ms
+[2019.12.29-01.28.17:807][902]LogSlate: Window 'RealTimeGame - Unreal Editor' being destroyed
+[2019.12.29-01.28.17:862][902]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.29-01.28.19:086][902]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.28.19:127][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.28.24:291][902]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.29-01.28.24:291][902]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.28.24:291][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.28.27:124][902]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.28.27:124][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.28.27:190][902]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.28.27:190][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.28.28:372][902]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.29-01.28.28:372][902]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.28.28:373][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.28.29:368][902]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.29-01.28.29:368][902]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.28.29:377][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.28.57:457][903]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2019.12.29-01.28.59:090][903]Cmd: QUIT_EDITOR
+[2019.12.29-01.28.59:157][903]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2019.12.29-01.29.02:529][903]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2019.12.29-01.29.03:520][903]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.29.15:729][903]LogExit: Preparing to exit.
+[2019.12.29-01.29.30:825][903]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.29-01.29.30:825][903]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.29-01.29.30:825][903]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.29-01.29.31:174][903]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.29-01.29.31:174][903]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.29-01.29.31:174][903]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.29-01.29.31:450][903]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.29-01.29.31:521][903]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.29.33:211][903]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.29.33:275][903]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.29.41:912][903]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.29-01.29.52:489][903]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.29.52:800][903]LogExit: Editor shut down
+[2019.12.29-01.29.52:837][903]LogExit: Transaction tracking system shut down
+[2019.12.29-01.30.16:426][903]LogExit: Object subsystem successfully closed.
+[2019.12.29-01.30.18:492][903]LogShaderCompilers: Display: Shaders left to compile 0
