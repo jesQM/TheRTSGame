@@ -8197,15 +8197,3 @@ Script Stack (0 frames):
 [2019.12.29-00.17.00:851][409]LogOutputDevice: Error: [Callstack] 0x00007ffc5f0aced1 ntdll.dll!UnknownFunction []
 [2019.12.29-00.17.00:851][409]LogOutputDevice: Error: 
 [2019.12.29-00.17.00:908][409]LogStats:                SubmitErrorReport -  0.000 s
-[2019.12.29-00.17.16:924][409]LogStats:                    SendNewReport - 16.017 s
-[2019.12.29-00.17.16:924][409]LogStats:             FDebug::EnsureFailed - 16.450 s
-[2019.12.29-00.17.16:941][410]LogEditorViewport: Clicking Background
-[2019.12.29-00.17.17:025][410]Cmd: SELECT NONE
-[2019.12.29-00.17.17:145][410]Cmd: SELECT NONE
-[2019.12.29-00.17.17:588][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2019.12.29-00.17.24:910][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
-[2019.12.29-00.17.24:930][700]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel608E779A48E83A3B3686B69AF276F031.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
-[2019.12.29-00.17.24:958][700]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataEDB265B6455467BD0AB31F868F52528F.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
-[2019.12.29-00.17.24:987][700]AssetCheck: New page: Asset Save: multiple assets
-[2019.12.29-00.17.24:987][700]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
-[2019.12.29-00.17.24:988][700]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
