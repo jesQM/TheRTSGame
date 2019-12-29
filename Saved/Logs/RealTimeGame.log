@@ -9280,3 +9280,1260 @@ Script Stack (0 frames):
 [2019.12.29-01.00.38:847][260]AssetCheck: New page: Asset Save: multiple assets
 [2019.12.29-01.00.38:847][260]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
 [2019.12.29-01.00.38:847][260]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-01.01.35:463][751]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.01.35:518][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.01.39:309][884]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.01.39:309][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.01.40:927][939]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.29-01.01.40:927][939]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.01.40:940][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.01.42:284][975]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.29-01.01.42:284][975]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.01.42:284][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.01.44:204][998]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.12.29-01.01.44:292][998]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevelD41E51F74AF2C218AE0E0DA9521E7C99.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-01.01.44:344][998]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData8DD80C46475C9822C91DF6AD3456375C.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-01.01.45:950][998]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-01.01.45:983][998]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-01.01.45:983][998]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-01.02.05:918][906]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface36436E6E40870FA60B34CCA2AAC438AE.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.02.05:946][906]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.02.05:947][906]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.02.06:187][921]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.02.07:976][921]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2019.12.29-01.02.39:099][572]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-01.04.09:904][523]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface7867AAB546874DE6A1F094BDACC6EFE0.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.04.10:007][523]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.04.10:007][523]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.04.10:374][544]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.04.10:695][544]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.12.29-01.04.16:360][880]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.04.16:645][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.04.16:830][880]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:04:16)
+[2019.12.29-01.04.16:982][880]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.04.17:603][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.553594s)
+[2019.12.29-01.04.17:763][880]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.04.17:854][880]LogPlayLevel: PIE: World Init took: (0.250225s)
+[2019.12.29-01.04.17:884][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.902714s)
+[2019.12.29-01.04.17:942][880]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.12.29-01.04.18:096][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.04.18:096][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.04.18:096][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.04.18:096][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.04.18:096][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.04.18:096][880]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.04.18:096][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.04.18:105][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.04.18:220][880]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.04.18:220][880]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.04.18:318][880]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.04.18:428][880]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.04.18:570][880]LogInit: FAudioDevice initialized.
+[2019.12.29-01.04.18:874][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.04.18:942][880]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.04.19:064][880]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.04.19
+[2019.12.29-01.04.19:084][880]LogWorld: Bringing up level for play took: 0.125925
+[2019.12.29-01.04.19:323][880]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2019.12.29-01.04.20:121][880]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 4,267
+[2019.12.29-01.04.22:321][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.04.22:321][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.04.22:367][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.04.22:368][956]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.04.22:592][956]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.04.22:624][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.04.22:648][956]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.04.22:677][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.04.22:734][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.04.22:822][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.04.22:956][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.04.23:151][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.29-01.04.23:178][957]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.12.29-01.04.27:906][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyGameMode.MyGameMode
+[2019.12.29-01.04.31:676][387]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.29-01.04.35:159][568]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/MyGameMode5E5F36F9431C15681A8A3BB35C244A0D.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/MyGameMode.uasset'
+[2019.12.29-01.04.35:206][568]AssetCheck: New page: Asset Save: MyGameMode
+[2019.12.29-01.04.35:206][568]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MyGameMode.MyGameMode
+[2019.12.29-01.04.35:457][582]BlueprintLog: New page: Compile MyGameMode
+[2019.12.29-01.04.37:797][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.29-01.04.50:116][250]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.29-01.07.56:896][312]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/MyGameMode07E312A64921E4779294A58B2C041AF6.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/MyGameMode.uasset'
+[2019.12.29-01.08.01:888][312]AssetCheck: New page: Asset Save: MyGameMode
+[2019.12.29-01.08.01:888][312]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MyGameMode.MyGameMode
+[2019.12.29-01.08.01:966][313]BlueprintLog: New page: Compile MyGameMode
+[2019.12.29-01.08.10:116][313]LogUObjectHash: Compacting FUObjectHashTables data took  44.17ms
+[2019.12.29-01.08.14:376][398]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.08.15:126][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.08.15:172][398]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:08:15)
+[2019.12.29-01.08.15:491][398]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.08.16:691][398]LogPlayLevel: PIE: StaticDuplicateObject took: (1.163691s)
+[2019.12.29-01.08.17:734][398]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.08.17:964][398]LogPlayLevel: PIE: World Init took: (1.271906s)
+[2019.12.29-01.08.17:995][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (2.520232s)
+[2019.12.29-01.08.18:094][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.29-01.08.18:669][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.08.18:669][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.08.18:669][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.08.18:669][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.08.18:669][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.08.18:669][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.08.18:669][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.08.18:679][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.08.18:794][398]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.08.18:794][398]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.08.18:907][398]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.08.30:017][398]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.08.30:295][398]LogInit: FAudioDevice initialized.
+[2019.12.29-01.08.31:191][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.08.31:798][398]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.08.32:648][398]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.08.32
+[2019.12.29-01.08.32:751][398]LogWorld: Bringing up level for play took: 0.847117
+[2019.12.29-01.08.32:993][398]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2019.12.29-01.08.33:879][398]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.33:925][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.34:216][398]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 20,363
+[2019.12.29-01.08.35:044][398]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.35:044][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.36:524][398]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.36:524][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.36:830][399]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.36:830][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.36:833][399]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.36:833][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:139][400]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:139][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:141][400]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:141][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:145][401]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:145][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:146][401]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:147][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:161][402]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:162][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:163][402]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:163][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:202][403]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:202][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:205][403]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:205][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:249][404]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:249][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:250][404]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:251][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:269][405]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:270][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:274][405]LogScript: Warning: Accessed None trying to read property selectedObject
+	UserInterface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_40.UserInterface_C_0
+	Function /Game/Blueprints/UserInterface.UserInterface_C:GetBrush_0:015E
+[2019.12.29-01.08.37:274][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:285][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:287][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:302][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:304][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:318][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:320][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:333][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:335][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:351][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:353][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:368][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:370][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:385][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:387][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:401][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:403][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:417][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:419][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:436][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:437][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:450][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:453][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:468][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:471][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:484][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:486][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:500][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:501][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:515][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:516][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:532][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:533][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:548][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:550][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:565][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:567][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:582][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:583][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:599][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:600][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:615][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:618][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:635][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:638][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:651][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:654][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:669][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:671][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:687][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:690][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:706][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:708][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:723][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:726][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:742][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:749][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:763][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:767][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:780][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:783][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:797][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:799][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:812][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:814][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:830][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:833][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:844][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:847][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:859][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:863][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:875][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:879][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:892][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:896][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:908][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:912][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:923][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:924][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:938][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:939][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:956][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:958][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:972][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:974][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:988][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.37:990][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:005][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:008][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:022][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:024][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:038][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:040][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:055][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:057][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:072][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:074][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:089][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:090][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:105][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:107][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:122][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:124][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:140][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:142][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:154][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:156][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:172][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:174][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:188][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:190][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:205][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:207][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:223][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:225][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:240][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:242][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:256][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:258][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:272][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:273][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:288][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:290][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:306][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:308][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:322][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:323][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:339][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:341][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:355][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:357][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:372][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:373][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:389][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:390][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:405][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:407][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:422][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:423][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:439][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:440][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:454][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:456][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:471][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:472][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:488][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:490][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:505][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:507][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:523][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:525][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:540][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:541][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:556][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:558][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:572][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:573][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:589][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:590][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:605][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:607][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:622][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:624][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:637][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:639][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:654][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:655][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:671][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:672][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:688][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:689][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:704][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:706][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:721][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:722][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:738][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:740][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:755][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:756][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:771][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:773][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:789][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:791][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:807][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:811][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:823][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:825][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:839][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:840][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:856][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:857][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:872][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:873][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:888][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:890][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:905][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:907][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:922][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:923][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:938][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:940][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:955][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:957][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:972][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:973][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:989][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.38:991][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:006][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:008][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:022][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:024][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:038][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:040][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:056][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:058][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:072][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:075][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:089][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:091][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:105][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:107][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:120][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:122][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:138][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:139][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:155][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:157][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:171][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:172][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:188][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:190][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:205][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:206][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:221][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:223][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:238][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:240][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:256][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:258][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:271][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:273][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:288][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:290][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:333][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:334][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:342][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:346][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:358][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:361][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:372][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:373][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:389][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:391][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:405][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:406][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:422][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:423][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:438][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:440][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:455][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:456][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:472][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:473][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:488][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:489][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:505][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:507][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:522][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:523][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:538][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:540][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:554][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:556][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:572][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:574][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:588][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:590][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:605][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:607][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:622][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:624][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:638][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:640][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:656][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:657][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:671][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:673][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:688][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:691][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:705][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:707][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:722][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:724][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:739][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:740][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:756][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:759][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:773][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:775][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:789][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:790][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:806][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:808][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:822][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:824][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:839][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:841][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:857][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:861][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:873][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:874][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:889][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:891][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:906][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:908][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:922][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:924][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:939][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:941][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:955][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:957][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:972][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:974][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:989][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.39:990][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:005][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:007][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:023][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:024][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:039][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:041][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:056][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:058][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:072][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:074][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:089][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:091][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:106][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:107][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:125][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:130][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:386][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:387][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:409][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:411][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:416][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:417][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:449][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:451][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:495][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:497][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:543][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:545][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:591][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:594][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:612][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:617][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:625][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:629][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:641][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:644][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:656][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:658][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:673][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:677][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:689][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:693][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:706][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:708][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:723][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:724][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:740][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:743][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:756][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:758][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:773][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:777][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:790][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:795][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:807][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:811][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:824][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:828][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:840][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:845][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:857][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:860][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:873][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:876][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:889][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:892][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:907][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:910][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:923][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:927][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:939][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:943][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:957][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:960][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:974][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:977][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:990][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.40:994][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:006][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:010][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:023][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:026][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:040][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:042][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:056][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:058][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:073][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:077][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:089][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:091][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:106][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:107][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:123][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:126][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:140][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:142][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:157][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:160][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:178][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:180][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:196][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:198][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:213][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:214][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:233][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:236][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:248][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:250][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:267][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:269][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:284][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:289][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:303][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:305][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:319][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:322][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:335][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:338][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:351][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:353][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:368][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:370][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:383][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:386][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:399][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:401][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:415][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:417][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:431][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:433][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:446][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:448][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:462][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:464][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:480][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:481][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:496][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:498][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:512][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:514][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:530][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:531][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.08.41:542][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.08.41:542][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.08.41:908][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.08.41:929][639]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.08.42:315][639]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.08.42:581][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.08.42:806][639]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.08.43:199][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.08.43:955][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.08.44:108][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.08.44:573][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.08.45:211][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.29-01.08.45:937][640]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.12.29-01.08.53:224][ 31]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-01.08.53:228][ 31]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-01.09.29:271][649]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceCA45D0A34FC9A69256239F9E210978F3.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.09.32:233][649]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.09.32:233][649]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.09.33:693][720]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.09.35:516][720]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2019.12.29-01.09.37:287][785]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.09.37:523][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.09.37:780][785]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:09:37)
+[2019.12.29-01.09.37:881][785]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.09.38:636][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.752836s)
+[2019.12.29-01.09.39:423][785]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.09.39:789][785]LogPlayLevel: PIE: World Init took: (1.153183s)
+[2019.12.29-01.09.39:799][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (1.935109s)
+[2019.12.29-01.09.39:864][785]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2019.12.29-01.09.40:014][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.09.40:014][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.09.40:014][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.09.40:014][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.09.40:014][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.09.40:014][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.09.40:014][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.09.40:023][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.09.40:150][785]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.09.40:151][785]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.09.40:185][785]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.09.40:544][785]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.09.40:578][785]LogInit: FAudioDevice initialized.
+[2019.12.29-01.09.40:818][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.09.41:097][785]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.09.41:593][785]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.09.41
+[2019.12.29-01.09.41:607][785]LogWorld: Bringing up level for play took: 0.507471
+[2019.12.29-01.09.42:047][785]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2019.12.29-01.09.43:239][785]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 5,385
+[2019.12.29-01.09.47:153][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.09.47:153][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.09.47:153][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.09.47:153][979]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.09.47:177][979]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.09.47:185][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.09.47:200][979]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.09.47:200][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.09.47:266][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.09.47:283][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.09.47:366][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.09.47:407][979]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.12.29-01.09.47:428][980]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.12.29-01.09.52:605][206]LogEditorViewport: Clicking on Actor (LMB): Hut_C (Hut2)
+[2019.12.29-01.10.20:677][561]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BaseGameObject7AEF303D4118FC66AAE614B0742D92F6.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/BaseGameObject.uasset'
+[2019.12.29-01.10.23:398][561]AssetCheck: New page: Asset Save: BaseGameObject
+[2019.12.29-01.10.23:398][561]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/BaseGameObject.BaseGameObject
+[2019.12.29-01.10.23:422][562]BlueprintLog: New page: Compile BaseGameObject
+[2019.12.29-01.10.27:007][562]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.12.29-01.10.28:493][613]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuildingDCC1543D42AE8F6FC202079177B0DD71.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/BasicBuilding.uasset'
+[2019.12.29-01.10.28:524][613]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-01.10.28:524][613]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-01.10.28:862][633]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-01.10.29:349][633]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2019.12.29-01.11.42:928][267]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BaseGameObject1EA180CB45BAA4A7793BCFB277DAA60E.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/BaseGameObject.uasset'
+[2019.12.29-01.11.48:209][267]AssetCheck: New page: Asset Save: BaseGameObject
+[2019.12.29-01.11.48:209][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/BaseGameObject.BaseGameObject
+[2019.12.29-01.11.48:303][268]BlueprintLog: New page: Compile BaseGameObject
+[2019.12.29-01.11.57:177][268]LogUObjectHash: Compacting FUObjectHashTables data took  10.51ms
+[2019.12.29-01.12.00:598][342]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.12.01:287][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.12.01:329][342]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:12:01)
+[2019.12.29-01.12.01:545][342]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.12.02:334][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.755498s)
+[2019.12.29-01.12.03:302][342]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.12.03:527][342]LogPlayLevel: PIE: World Init took: (1.192516s)
+[2019.12.29-01.12.03:543][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (2.007958s)
+[2019.12.29-01.12.03:606][342]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.12.29-01.12.03:818][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.12.03:818][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.12.03:818][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.12.03:818][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.12.03:818][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.12.03:818][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.12.03:818][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.12.03:824][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.12.03:911][342]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.12.03:911][342]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.12.03:998][342]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.12.04:116][342]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.12.04:336][342]LogInit: FAudioDevice initialized.
+[2019.12.29-01.12.05:017][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.12.05:688][342]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.12.06:577][342]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.12.06
+[2019.12.29-01.12.06:739][342]LogWorld: Bringing up level for play took: 1.002791
+[2019.12.29-01.12.07:086][342]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2019.12.29-01.12.08:794][342]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 6,941
+[2019.12.29-01.12.12:046][373]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.12.13:253][428]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.12.13:436][439]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-01.12.14:420][497]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-01.12.14:453][499]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.12.15:546][563]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.12.16:194][602]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.12.17:734][692]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.12.19:239][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.19:239][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.19:417][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.12.19:429][780]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.12.19:895][780]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.12.19:904][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.19:962][780]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.12.20:131][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.12.20:600][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.12.20:774][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.12.21:117][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.21:786][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.29-01.12.21:901][781]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.12.29-01.12.22:556][812]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.12.22:583][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.12.22:583][812]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:12:22)
+[2019.12.29-01.12.22:587][812]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.12.22:592][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004718s)
+[2019.12.29-01.12.22:593][812]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.12.22:638][812]LogPlayLevel: PIE: World Init took: (0.046610s)
+[2019.12.29-01.12.22:639][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.051551s)
+[2019.12.29-01.12.22:712][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.29-01.12.22:717][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.12.22:718][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.12.22:718][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.12.22:718][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.12.22:718][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.12.22:718][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.12.22:718][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.12.22:718][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.12.22:718][812]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.12.22:718][812]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.12.22:724][812]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.12.22:744][812]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.12.22:751][812]LogInit: FAudioDevice initialized.
+[2019.12.29-01.12.22:811][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.12.22:811][812]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.12.22:813][812]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.12.22
+[2019.12.29-01.12.22:813][812]LogWorld: Bringing up level for play took: 0.001234
+[2019.12.29-01.12.22:832][812]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2019.12.29-01.12.23:019][812]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,166
+[2019.12.29-01.12.24:741][886]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.12.30:411][213]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.12.33:891][411]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.33:891][411]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.33:893][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.12.33:893][411]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.12.33:908][411]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.12.33:914][411]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.33:914][411]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.12.33:914][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.12.33:965][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.12.33:979][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.12.34:061][411]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.12.34:092][411]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2019.12.29-01.12.34:130][412]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.12.29-01.13.55:553][823]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface64E373B94A8B74A215DC31844B9713DC.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.13.59:184][823]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.13.59:184][823]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.13.59:231][824]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.14.00:413][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2019.12.29-01.14.49:343][289]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface72FD8CB8488EF22B33CFADB538F6C08A.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.14.49:483][289]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.14.49:483][289]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.14.49:897][313]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.14.50:021][313]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.12.29-01.14.51:415][388]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.14.51:632][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.14.51:632][388]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:14:51)
+[2019.12.29-01.14.51:675][388]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.14.51:678][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002614s)
+[2019.12.29-01.14.52:140][388]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.14.52:365][388]LogPlayLevel: PIE: World Init took: (0.686152s)
+[2019.12.29-01.14.52:365][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.689493s)
+[2019.12.29-01.14.52:419][388]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2019.12.29-01.14.52:428][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.14.52:428][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.14.52:428][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.14.52:428][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.14.52:428][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.14.52:428][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.14.52:428][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.14.52:428][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.14.52:448][388]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.14.52:448][388]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.14.52:457][388]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.14.52:457][388]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.14.52:457][388]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.14.52:457][388]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.14.52:457][388]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.14.52:457][388]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.14.52:458][388]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.14.52:458][388]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.14.52:458][388]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.14.52:480][388]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.14.52:486][388]LogInit: FAudioDevice initialized.
+[2019.12.29-01.14.52:557][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.14.52:558][388]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.14.52:607][388]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.14.52
+[2019.12.29-01.14.52:607][388]LogWorld: Bringing up level for play took: 0.047547
+[2019.12.29-01.14.52:810][388]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2019.12.29-01.14.53:129][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.53:153][388]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,3
+[2019.12.29-01.14.53:233][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:296][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:439][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:456][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:499][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:549][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:636][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:649][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:664][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:682][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:697][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:711][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:727][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:744][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:761][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:778][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:794][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:811][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:828][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:845][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:861][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:877][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:894][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:911][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:928][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:945][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:962][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:977][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.54:994][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:011][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:028][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:045][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:064][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:079][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:097][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:113][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:130][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:147][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:165][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:182][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:199][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:216][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:233][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:250][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:267][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:283][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:301][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:317][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:333][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:350][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:367][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:384][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:401][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:418][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:433][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:451][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:468][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:485][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:500][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:517][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:534][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:552][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:569][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:585][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:602][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:619][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:635][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:652][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:668][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:683][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:699][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:716][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:731][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:747][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:767][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:783][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:801][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:817][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:833][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:851][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:869][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:884][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:901][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:918][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:936][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:954][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:968][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.55:985][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:002][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:020][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:036][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:052][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:070][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:086][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:103][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:120][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:136][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:153][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:170][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:187][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:203][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:220][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:237][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:253][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:270][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:288][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:304][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:320][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:337][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:354][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:362][498]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.14.56:395][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:411][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:428][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:444][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:459][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:476][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:491][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property selectedObject". Blueprint:  UserInterface Function:  Get Brush 0 Graph:  GetBrush_0 Node:  Return Node
+[2019.12.29-01.14.56:647][508]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.14.57:337][540]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.14.57:337][540]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.14.57:492][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.14.57:496][540]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.14.57:822][540]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.14.57:858][540]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.14.57:909][540]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.14.58:022][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.14.58:588][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.14.58:689][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.14.59:099][540]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.14.59:856][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.12.29-01.15.00:558][541]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.12.29-01.15.03:302][676]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-01.15.03:309][676]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-01.15.43:864][ 22]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface8A79218A4DFAE83EAF6F0FAEA23BD987.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.15.43:891][ 22]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.15.43:891][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.15.44:308][ 47]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.15.44:421][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.12.29-01.15.45:546][109]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.15.45:576][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.15.45:576][109]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:15:45)
+[2019.12.29-01.15.45:578][109]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.15.45:581][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002439s)
+[2019.12.29-01.15.45:582][109]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.15.45:583][109]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2019.12.29-01.15.45:583][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.004253s)
+[2019.12.29-01.15.45:637][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.12.29-01.15.45:638][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.15.45:638][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.15.45:639][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.15.45:639][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.15.45:639][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.15.45:639][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.15.45:639][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.15.45:639][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.15.45:639][109]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.15.45:639][109]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.15.45:645][109]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.15.45:665][109]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.15.45:670][109]LogInit: FAudioDevice initialized.
+[2019.12.29-01.15.45:737][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.15.45:738][109]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.15.45:740][109]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.15.45
+[2019.12.29-01.15.45:741][109]LogWorld: Bringing up level for play took: 0.001855
+[2019.12.29-01.15.45:741][109]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2019.12.29-01.15.45:750][109]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0,104
+[2019.12.29-01.15.46:497][110]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-01.15.47:681][162]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-01.15.47:867][162]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.15.47:888][163]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.15.49:252][216]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.15.50:106][236]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.15.52:767][379]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.15.52:767][379]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.15.54:116][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.15.54:120][379]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.15.55:187][379]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.15.56:393][379]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.15.57:058][379]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.15.57:673][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.16.05:649][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.16.06:314][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.16.08:721][379]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.16.10:023][379]LogUObjectHash: Compacting FUObjectHashTables data took  30.08ms
+[2019.12.29-01.16.11:115][380]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.12.29-01.16.16:998][442]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface92C68D1E4EE46A7EB11AE6ACE277791C.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.16.22:327][442]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.16.22:339][442]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.16.22:911][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.12.29-01.16.23:708][443]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_Auto1504776C24FE32994C9032F991BFA27DB.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Autosaves/Game/Levels/TestLevel_Auto1.umap'
+[2019.12.29-01.16.23:850][443]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 1.010
+[2019.12.29-01.16.23:850][443]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.010
+[2019.12.29-01.16.23:887][443]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut_Auto1BDF3E8A149651956E444B48BD9F47587.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Autosaves/Game/Blueprints/Buildings/Hut_Auto1.uasset'
+[2019.12.29-01.16.23:919][443]LogFileHelpers: Auto-saving content packages took 0.069
+[2019.12.29-01.16.26:983][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.12.29-01.16.27:019][448]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel90253A8B46C8937352DD9EBFE409DAB0.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-01.16.27:638][448]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataC1F1E3CB41F4BFD06059C1B4C7C28D5F.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-01.16.27:745][448]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-01.16.27:745][448]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-01.16.27:745][448]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-01.16.33:725][629]LogUObjectHash: Compacting FUObjectHashTables data took  15.19ms
+[2019.12.29-01.16.34:608][629]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/HutC657B9FE40696A68F595CFABC6677F76.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/Hut.uasset'
+[2019.12.29-01.16.38:548][629]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-01.18.46:635][899]LogEditorTransaction: Undo Move Widget
+[2019.12.29-01.19.30:078][333]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.29-01.20.45:242][713]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceAC15ADE044661F6418274595BFDB4582.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.20.45:535][713]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.20.45:568][713]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.20.45:880][729]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.20.47:477][729]LogUObjectHash: Compacting FUObjectHashTables data took  11.58ms
+[2019.12.29-01.20.49:164][777]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.20.49:765][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.20.49:883][777]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:20:49)
+[2019.12.29-01.20.50:115][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.20.50:963][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.793007s)
+[2019.12.29-01.20.51:614][777]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.20.51:900][777]LogPlayLevel: PIE: World Init took: (0.936709s)
+[2019.12.29-01.20.51:900][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (1.812251s)
+[2019.12.29-01.20.51:966][777]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2019.12.29-01.20.52:147][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.20.52:147][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.20.52:147][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.20.52:147][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.20.52:147][777]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.20.52:147][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.20.52:147][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.20.52:148][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.20.52:244][777]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.20.52:244][777]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.20.52:294][777]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.20.52:295][777]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.20.52:357][777]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.20.52:460][777]LogInit: FAudioDevice initialized.
+[2019.12.29-01.20.52:678][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.20.52:714][777]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.20.52:933][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.20.52
+[2019.12.29-01.20.52:953][777]LogWorld: Bringing up level for play took: 0.237679
+[2019.12.29-01.20.53:305][777]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2019.12.29-01.20.54:171][777]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 4,317
+[2019.12.29-01.20.57:341][885]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.20.57:434][890]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.20.57:549][897]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.20.58:233][938]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.20.58:282][941]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.20.58:327][942]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.21.05:751][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.21.05:751][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.21.05:860][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.21.05:860][383]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.21.06:462][383]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.21.06:468][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.21.06:508][383]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.21.06:594][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.21.07:110][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.21.07:231][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.21.07:570][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.21.08:173][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.12.29-01.21.08:244][384]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2019.12.29-01.23.33:663][577]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface1F8C597548CFF82D577CB8818F8FC806.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.23.37:680][577]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.23.37:681][577]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.23.38:370][612]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.23.45:763][612]LogUObjectHash: Compacting FUObjectHashTables data took  14.52ms
+[2019.12.29-01.24.31:728][100]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceD31D043643B02FA92C8E3BB742A86027.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.24.32:171][100]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.24.32:171][100]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.24.32:181][101]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.24.32:632][101]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2019.12.29-01.24.32:729][102]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.24.32:814][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.29-01.24.34:025][169]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-01.24.34:837][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-01.24.34:935][169]PIE: New page: PIE session: TestLevel (29 dic. 2019 3:24:34)
+[2019.12.29-01.24.35:149][169]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.24.36:276][169]LogPlayLevel: PIE: StaticDuplicateObject took: (1.094749s)
+[2019.12.29-01.24.37:156][169]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-01.24.37:432][169]LogPlayLevel: PIE: World Init took: (1.155560s)
+[2019.12.29-01.24.37:446][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (2.297572s)
+[2019.12.29-01.24.37:503][169]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.12.29-01.24.37:666][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-01.24.37:666][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-01.24.37:666][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-01.24.37:666][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-01.24.37:666][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-01.24.37:666][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-01.24.37:666][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-01.24.37:678][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-01.24.37:733][169]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-01.24.37:734][169]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: Channel Order:
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-01.24.37:790][169]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-01.24.37:876][169]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-01.24.37:996][169]LogInit: FAudioDevice initialized.
+[2019.12.29-01.24.38:332][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.24.38:486][169]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-01.24.39:032][169]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-02.24.39
+[2019.12.29-01.24.39:063][169]LogWorld: Bringing up level for play took: 0.566472
+[2019.12.29-01.24.39:201][169]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2019.12.29-01.24.40:167][169]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 6,313
+[2019.12.29-01.24.43:040][193]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.24.43:978][239]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-01.24.45:914][353]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-01.24.46:443][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.24.46:443][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.24.46:582][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-01.24.46:583][383]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-01.24.46:931][383]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-01.24.46:948][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.24.47:032][383]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-01.24.47:182][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.24.47:791][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-01.24.47:945][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-01.24.48:368][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-01.24.49:111][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.29-01.24.49:340][384]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface56A0FD20446F23144764D29298BB9D26.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.24.49:568][384]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.24.49:568][384]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.24.49:569][384]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2019.12.29-01.26.43:296][768]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface6199C4E2469A071263E530B225E929AB.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.26.43:566][768]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.26.43:566][768]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.26.43:994][783]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-01.26.46:629][783]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.12.29-01.27.35:740][587]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface59142BF642745E34207F4E93F72EA0DB.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.27.35:761][587]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.27.35:761][587]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.27.36:112][604]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface9D16E8EE4F7676C931E1FCAB24F692C0.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-01.27.36:127][604]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-01.27.36:127][604]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-01.27.39:365][643]LogUObjectHash: Compacting FUObjectHashTables data took   8.84ms
+[2019.12.29-01.27.39:984][643]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel1611C02D48FE17EB3B7CB480AEE746CB.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-01.27.40:474][643]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData9ABA758141FDDAA58B3372A368478895.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-01.27.40:556][643]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-01.27.40:556][643]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-01.27.40:556][643]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
