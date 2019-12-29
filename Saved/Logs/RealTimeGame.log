@@ -8542,3 +8542,741 @@ Script Stack (0 frames):
 [2019.12.29-00.25.44:702][510]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
 [2019.12.29-00.25.45:009][528]BlueprintLog: New page: Compile Player
 [2019.12.29-00.25.45:201][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.29-00.27.49:639][157]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.29-00.28.00:171][737]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.28.31:217][498]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuilding866284994A6F3E9FF4811BAC6A5D80DA.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.28.31:240][498]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.28.31:240][498]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.28.31:637][522]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.28.31:842][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.29-00.29.32:228][995]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuilding606110594A9B0558D5D478B881CC2CCA.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.29.33:166][995]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.29.33:166][995]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.29.33:171][996]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.29.34:328][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.12.29-00.29.58:189][274]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuilding91102CA54DE1DCF4A7589A838DDE50E6.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.29.58:249][274]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.29.58:249][274]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.29.58:606][294]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.29.58:834][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.29-00.30.11:349][993]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Buildings/Hut.Hut
+[2019.12.29-00.30.32:949][954]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/HutBBDBE8A74CF11B0801147F948CD6C6F9.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/Hut.uasset'
+[2019.12.29-00.30.32:971][954]AssetCheck: New page: Asset Save: Hut
+[2019.12.29-00.30.32:971][954]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/Hut.Hut
+[2019.12.29-00.30.33:282][972]BlueprintLog: New page: Compile Hut
+[2019.12.29-00.30.33:707][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.12.29-00.30.43:700][101]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-00.30.44:280][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-00.30.44:324][101]PIE: New page: PIE session: TestLevel (29 dic. 2019 2:30:44)
+[2019.12.29-00.30.44:472][101]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.30.44:686][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213683s)
+[2019.12.29-00.30.44:821][101]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-00.30.44:861][101]LogPlayLevel: PIE: World Init took: (0.156787s)
+[2019.12.29-00.30.44:890][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.417710s)
+[2019.12.29-00.30.45:108][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.29-00.30.45:223][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-00.30.45:223][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-00.30.45:223][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-00.30.45:223][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-00.30.45:223][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-00.30.45:223][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-00.30.45:223][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-00.30.45:244][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-00.30.45:320][101]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-00.30.45:320][101]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: Channel Order:
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-00.30.45:332][101]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-00.30.45:355][101]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.30.45:405][101]LogInit: FAudioDevice initialized.
+[2019.12.29-00.30.45:624][101]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-00.30.45:917][101]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-01.30.45
+[2019.12.29-00.30.45:919][101]LogWorld: Bringing up level for play took: 0.060244
+[2019.12.29-00.30.46:065][101]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2019.12.29-00.30.46:534][101]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 2,68
+[2019.12.29-00.30.50:276][290]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.30.51:613][357]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.30.52:463][408]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.30.53:213][453]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.53:596][476]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.53:930][496]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.54:246][515]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.54:463][528]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.54:713][543]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.54:980][559]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.55:196][572]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.55:396][584]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.30.55:697][602]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.30.56:230][634]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.30.56:630][658]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.30.57:230][694]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.30.57:430][706]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.31.02:459][  5]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.31.02:460][  5]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.31.02:531][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.31.02:583][  5]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.31.02:675][  5]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.31.02:712][  5]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.31.02:723][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.31.02:857][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-00.31.02:879][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.31.03:003][  5]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.31.03:023][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.31.03:253][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.29-00.31.03:269][  6]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.12.29-00.31.20:323][971]LogEditorViewport: Clicking on Actor (LMB): Hut_C (Hut)
+[2019.12.29-00.31.22:038][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.29-00.31.28:571][457]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.29-00.31.41:944][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.29-00.31.48:239][621]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.29-00.31.56:477][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.12.29-00.31.56:741][ 86]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevelA6A6EB4F47FFE31E50524CA2F8A7C522.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.31.57:206][ 86]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataD2FA4A74416CCA8E9FE2169DD47F697B.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.31.57:249][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.31.57:249][ 86]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.31.57:249][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.32.01:281][317]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.29-00.32.04:237][491]Cmd: EDIT COPY
+[2019.12.29-00.32.04:966][491]Cmd: EDIT PASTE
+[2019.12.29-00.32.05:600][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.29-00.32.06:338][544]LogEditorViewport: Clicking on Actor (LMB): Hut_C (Hut2)
+[2019.12.29-00.32.09:421][716]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.29-00.32.09:437][716]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel316EDB43442FDE499BB8888A7CDAC0FB.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.32.09:529][716]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataC05FBC6E4226866215C5B0815D91BDC5.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.32.09:557][716]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.32.09:557][716]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.32.09:557][716]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.32.10:624][770]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-00.32.10:656][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-00.32.10:656][770]PIE: New page: PIE session: TestLevel (29 dic. 2019 2:32:10)
+[2019.12.29-00.32.10:661][770]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.32.10:664][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002254s)
+[2019.12.29-00.32.10:665][770]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-00.32.10:690][770]LogPlayLevel: PIE: World Init took: (0.026294s)
+[2019.12.29-00.32.10:690][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.028732s)
+[2019.12.29-00.32.10:737][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.29-00.32.10:737][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-00.32.10:737][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-00.32.10:738][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-00.32.10:738][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-00.32.10:738][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-00.32.10:738][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-00.32.10:738][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-00.32.10:738][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-00.32.10:738][770]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-00.32.10:738][770]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-00.32.10:745][770]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: Channel Order:
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-00.32.10:746][770]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-00.32.10:766][770]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.32.10:773][770]LogInit: FAudioDevice initialized.
+[2019.12.29-00.32.10:785][770]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-00.32.10:786][770]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-01.32.10
+[2019.12.29-00.32.10:786][770]LogWorld: Bringing up level for play took: 0.000545
+[2019.12.29-00.32.10:786][770]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2019.12.29-00.32.10:789][770]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,935
+[2019.12.29-00.32.11:740][823]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.12:207][851]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.12:306][857]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.13:223][912]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.32.13:723][942]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.13:773][945]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.14:491][988]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.14:824][  8]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.15:057][ 22]LogBlueprintUserMessages: [Hut2] mouse click
+[2019.12.29-00.32.15:574][ 53]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.16:158][ 88]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.16:174][ 89]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.16:175][ 89]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.16:208][ 91]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.16:591][114]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.16:607][115]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.16:624][116]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.16:657][118]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.19:624][296]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.19:640][297]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.19:657][298]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.19:673][299]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.21:492][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.21:492][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.21:492][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.32.21:492][408]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.32.21:492][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.21:492][408]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.32.21:492][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.32.21:503][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-00.32.21:509][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.32.21:558][408]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.21:561][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.32.21:565][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.29-00.32.21:646][410]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.12.29-00.32.34:392][120]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerC80D7D3549BE11E7E8103D9934531E27.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-00.32.34:430][120]AssetCheck: New page: Asset Save: Player
+[2019.12.29-00.32.34:430][120]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-00.32.34:769][137]BlueprintLog: New page: Compile Player
+[2019.12.29-00.32.35:205][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.12.29-00.32.35:777][165]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-00.32.35:804][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-00.32.35:804][165]PIE: New page: PIE session: TestLevel (29 dic. 2019 2:32:35)
+[2019.12.29-00.32.35:805][165]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.32.35:808][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002391s)
+[2019.12.29-00.32.35:809][165]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-00.32.35:809][165]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2019.12.29-00.32.35:809][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.003689s)
+[2019.12.29-00.32.35:856][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-00.32.35:857][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-00.32.35:857][165]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-00.32.35:857][165]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: Channel Order:
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-00.32.35:863][165]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-00.32.35:880][165]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.32.35:885][165]LogInit: FAudioDevice initialized.
+[2019.12.29-00.32.35:968][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.32.35:991][165]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-00.32.35:994][165]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-01.32.35
+[2019.12.29-00.32.35:994][165]LogWorld: Bringing up level for play took: 0.001298
+[2019.12.29-00.32.35:994][165]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2019.12.29-00.32.36:000][165]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,146
+[2019.12.29-00.32.39:290][347]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.39:406][354]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.39:523][361]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.39:607][366]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.39:908][384]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.40:057][393]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.46:166][759]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.46:666][789]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.46:684][790]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.46:784][796]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.46:966][807]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.47:139][817]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.47:263][824]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.47:597][844]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.47:663][848]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.48:230][882]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.49:396][952]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.50:298][  6]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.51:048][ 51]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.32.51:614][ 85]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.32.53:248][183]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.32.53:603][204]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.32.58:706][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.58:706][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.58:706][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.32.58:706][510]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.32.58:902][510]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-00.32.58:923][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.58:923][510]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.32.58:923][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.32.58:937][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-00.32.58:944][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.32.59:001][510]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.32.59:011][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.29-00.32.59:028][511]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.12.29-00.36.32:270][713]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuildingCA2BD7664651BFC7FCD3B9ACAB491035.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.36.33:342][713]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.36.33:342][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.36.33:348][714]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.36.35:393][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.29-00.36.37:218][809]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-00.36.37:314][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-00.36.37:333][809]PIE: New page: PIE session: TestLevel (29 dic. 2019 2:36:37)
+[2019.12.29-00.36.37:355][809]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.36.37:389][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033944s)
+[2019.12.29-00.36.37:480][809]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-00.36.37:503][809]LogPlayLevel: PIE: World Init took: (0.113339s)
+[2019.12.29-00.36.37:503][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.147576s)
+[2019.12.29-00.36.37:554][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.29-00.36.37:576][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-00.36.37:576][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-00.36.37:576][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-00.36.37:576][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-00.36.37:576][809]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-00.36.37:576][809]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-00.36.37:576][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-00.36.37:576][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-00.36.37:580][809]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-00.36.37:580][809]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: Channel Order:
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-00.36.37:601][809]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-00.36.37:618][809]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.36.37:629][809]LogInit: FAudioDevice initialized.
+[2019.12.29-00.36.37:697][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.36.37:698][809]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-00.36.37:771][809]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-01.36.37
+[2019.12.29-00.36.37:802][809]LogWorld: Bringing up level for play took: 0.071150
+[2019.12.29-00.36.37:842][809]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2019.12.29-00.36.38:003][809]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,15
+[2019.12.29-00.36.39:553][872]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.36.41:352][974]LogBlueprintUserMessages: [Hut2] mouse click
+[2019.12.29-00.36.41:569][986]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.36.41:651][991]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.36.42:002][ 11]LogBlueprintUserMessages: [Hut_2] mouse click
+[2019.12.29-00.36.42:269][ 27]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.36.42:304][ 29]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.36.42:353][ 32]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.36.42:485][ 40]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.36.43:103][ 77]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.36.45:418][215]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.36.45:435][216]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.36.45:651][229]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.36.45:767][236]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.36.45:801][238]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.36.45:885][243]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.36.46:001][250]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.36.46:051][253]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.36.46:084][255]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.36.46:367][272]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.36.46:401][274]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.36.46:750][295]LogBlueprintUserMessages: [Hut2] mouse click
+[2019.12.29-00.36.46:917][305]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.36.47:347][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.36.47:347][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.36.47:347][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.36.47:347][330]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.36.47:396][330]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-00.36.47:402][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.36.47:403][330]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.36.47:403][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.36.47:541][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-00.36.47:585][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.36.47:821][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.36.48:085][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.29-00.36.48:125][331]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.12.29-00.36.51:077][470]LogEditorViewport: Clicking on Actor (LMB): Hut_C (Hut2)
+[2019.12.29-00.36.52:214][497]LogEditorViewport: Clicking on Actor (LMB): Hut_C (Hut2)
+[2019.12.29-00.36.54:227][604]LogEditorViewport: Clicking on Actor (LMB): Hut_C (Hut2)
+[2019.12.29-00.36.58:516][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.12.29-00.36.58:814][846]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel03C4957E4D418E4C2D44088B8A93057F.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.36.59:092][846]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData3E815D5E41D6CBC003B9579527498632.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.36.59:110][846]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.36.59:110][846]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.36.59:110][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.36.59:597][872]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-00.36.59:618][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-00.36.59:619][872]PIE: New page: PIE session: TestLevel (29 dic. 2019 2:36:59)
+[2019.12.29-00.36.59:626][872]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.36.59:629][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002239s)
+[2019.12.29-00.36.59:630][872]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-00.36.59:651][872]LogPlayLevel: PIE: World Init took: (0.022514s)
+[2019.12.29-00.36.59:651][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.024962s)
+[2019.12.29-00.36.59:732][872]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2019.12.29-00.36.59:750][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-00.36.59:750][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-00.36.59:750][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-00.36.59:750][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-00.36.59:751][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-00.36.59:751][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-00.36.59:751][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-00.36.59:751][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-00.36.59:751][872]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-00.36.59:751][872]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-00.36.59:758][872]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: Channel Order:
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-00.36.59:759][872]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-00.36.59:783][872]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.36.59:789][872]LogInit: FAudioDevice initialized.
+[2019.12.29-00.36.59:913][872]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-00.36.59:914][872]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-01.36.59
+[2019.12.29-00.36.59:915][872]LogWorld: Bringing up level for play took: 0.000937
+[2019.12.29-00.36.59:915][872]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2019.12.29-00.36.59:919][872]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,066
+[2019.12.29-00.37.00:559][902]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.37.01:240][943]LogBlueprintUserMessages: [Hut2] mouse click
+[2019.12.29-00.37.01:606][965]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.37.02:022][990]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.37.02:589][ 24]LogBlueprintUserMessages: [Hut2] mouse click
+[2019.12.29-00.37.02:940][ 45]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.37.03:341][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.37.03:341][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.37.03:341][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.37.03:341][ 69]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.37.03:341][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.37.03:341][ 69]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.37.03:342][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.37.03:358][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-00.37.03:368][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.37.03:418][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.37.03:473][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.37.03:479][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.29-00.37.03:497][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.12.29-00.37.06:037][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.29-00.37.06:794][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.29-00.37.07:447][281]LogEditorViewport: Clicking on Actor (LMB): Hut_C (Hut2)
+[2019.12.29-00.37.10:139][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.29-00.37.10:154][428]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel3B5D1F5A4221376BD404B680376E3D4F.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.37.10:184][428]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData8398D8EA44084C1660DCF69501121002.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.37.10:207][428]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.37.10:208][428]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.37.10:208][428]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.37.13:409][569]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.37.13:409][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.38.48:576][449]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuildingB038B19C41AFBFB9B15E129CE613E251.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.38.49:383][449]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.38.49:383][449]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.38.49:510][450]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-00.38.49:675][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-00.38.49:726][450]PIE: New page: PIE session: TestLevel (29 dic. 2019 2:38:49)
+[2019.12.29-00.38.49:734][450]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.38.50:238][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.503662s)
+[2019.12.29-00.38.50:337][450]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-00.38.50:396][450]LogPlayLevel: PIE: World Init took: (0.158090s)
+[2019.12.29-00.38.50:396][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.662074s)
+[2019.12.29-00.38.50:871][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.29-00.38.50:961][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-00.38.50:961][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-00.38.50:961][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-00.38.50:961][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-00.38.50:961][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-00.38.50:961][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-00.38.50:961][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-00.38.50:961][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-00.38.50:962][450]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-00.38.50:962][450]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: Channel Order:
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-00.38.50:968][450]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-00.38.50:987][450]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-00.38.51:040][450]LogInit: FAudioDevice initialized.
+[2019.12.29-00.38.51:126][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.38.51:127][450]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-00.38.51:191][450]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-01.38.51
+[2019.12.29-00.38.51:191][450]LogWorld: Bringing up level for play took: 0.062037
+[2019.12.29-00.38.51:191][450]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2019.12.29-00.38.51:236][450]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,382
+[2019.12.29-00.38.54:593][563]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.38.54:725][571]LogBlueprintUserMessages: [Hut2] mouse click
+[2019.12.29-00.38.55:076][592]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.38.55:148][595]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.29-00.38.55:746][629]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.29-00.38.55:847][635]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.38.55:994][644]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-00.38.56:477][673]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-00.38.56:899][698]LogBlueprintUserMessages: [Hut2] mouse click
+[2019.12.29-00.38.58:234][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.38.58:234][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.38.58:235][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-00.38.58:235][778]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-00.38.58:357][778]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-00.38.58:372][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.38.58:372][778]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.38.58:372][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.38.58:470][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-00.38.58:476][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.38.58:563][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-00.38.58:601][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.29-00.38.58:706][779]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.12.29-00.40.12:847][994]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuildingC975B46645F41A3C6560C0B8518F5032.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.40.12:867][994]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.40.12:867][994]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.40.13:157][ 11]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.40.15:988][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2019.12.29-00.40.39:600][358]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuildingD72A2338435FA8806FC308AD37140B42.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.40.39:625][358]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.40.39:625][358]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.40.40:375][403]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.40.40:697][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.29-00.40.47:664][772]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.29-00.40.47:664][772]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.40.47:664][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.41.39:765][808]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuildingBA94A10A40A9815F34D098815FEF71A3.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.41.39:786][808]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.41.39:786][808]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.41.40:165][830]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.41.40:407][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.12.29-00.41.48:870][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Buildings/Hut.Hut
+[2019.12.29-00.41.53:668][401]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-00.41.53:668][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-00.41.53:763][401]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Buildings/Hut.Hut
+[2019.12.29-00.42.03:543][905]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Buildings/House/House3Textures/House3_Texture.House3_Texture
+[2019.12.29-00.42.04:225][905]LogMaterial: Display: Missing cached shader map for material House3_Texture, compiling. 
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2019.12.29-00.42.04:819][905]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2019.12.29-00.42.13:340][905]LogMaterial: Display: Missing cached shader map for material House3_Texture, compiling. 
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2019.12.29-00.42.14:235][905]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2019.12.29-00.42.14:312][905]LogMaterial: Display: Missing cached shader map for material House3_Texture, compiling. 
+[2019.12.29-00.42.20:570][905]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2019.12.29-00.42.20:570][905]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2019.12.29-00.42.20:570][905]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2019.12.29-00.42.20:571][905]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2019.12.29-00.42.20:571][905]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2019.12.29-00.42.20:571][905]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2019.12.29-00.42.20:571][905]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2019.12.29-00.42.20:571][905]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2019.12.29-00.42.20:571][905]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2019.12.29-00.42.20:995][905]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.29-00.42.21:023][905]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2019.12.29-00.42.21:023][905]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2019.12.29-00.42.21:023][905]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2019.12.29-00.42.21:023][905]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2019.12.29-00.42.21:023][905]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.12.29-00.42.21:062][905]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.12.29-00.42.21:062][905]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.12.29-00.42.21:062][905]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.12.29-00.42.21:062][905]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.12.29-00.42.27:592][908]MaterialEditorStats: Base pass shader: 126 instructions
+[2019.12.29-00.42.27:593][908]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2019.12.29-00.42.27:593][908]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.12.29-00.42.27:593][908]MaterialEditorStats: Texture samplers: 4/16
+[2019.12.29-00.42.27:593][908]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.29-00.42.27:593][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.29-00.42.33:439][210]LogMaterialEditor: Saving and Compiling material House3_Texture
+[2019.12.29-00.42.34:471][210]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/House3_TextureE4FAB05E49D1A4D1B6A1B3B60900ED0B.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Assets/Buildings/House/House3Textures/House3_Texture.uasset'
+[2019.12.29-00.42.37:437][210]AssetCheck: New page: Asset Save: House3_Texture
+[2019.12.29-00.42.37:437][210]LogContentValidation: Display: Validating Material /Game/Assets/Buildings/House/House3Textures/House3_Texture.House3_Texture
+[2019.12.29-00.42.41:700][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.12.29-00.42.42:447][271]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevelF7FBBF6F48EE9C2ABA0EF0B5F4096B0A.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.42.42:938][271]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData54D3FBD642286CC5C300819DBCBC662D.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.42.43:024][271]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.42.43:024][271]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.42.43:024][271]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.45.42:741][738]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuilding19A91A584DBA5A9E40CD23A2102535AF.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.45.42:765][738]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.45.42:765][738]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.45.43:369][767]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.45.47:137][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.29-00.46.21:114][679]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerD4518BD749A62BB2FDDF8D9B340E821E.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-00.46.21:168][679]AssetCheck: New page: Asset Save: Player
+[2019.12.29-00.46.21:168][679]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-00.46.21:529][699]BlueprintLog: New page: Compile Player
+[2019.12.29-00.46.21:994][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.12.29-00.46.23:341][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.12.29-00.46.23:355][756]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel064624FC431FFC714E35B8928E95301A.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.46.23:387][756]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataBDD34C3B499F7457FAEA65938C2D7AAC.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.46.23:408][756]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.46.23:408][756]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.46.23:408][756]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.46.38:804][930]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.29-00.48.10:648][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.12.29-00.48.10:756][357]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel770D0632441B97FC5FF93AACA07247C0.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.48.10:792][357]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataBFF336674C9F98CDDDCCD5AD07643F25.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.48.10:816][357]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset', retrying in .5s...
+[2019.12.29-00.48.11:317][357]LogFileManager: Warning: DeleteFile recovered during retry!
+[2019.12.29-00.48.11:361][357]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.48.11:361][357]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.48.11:361][357]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.48.21:587][848]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.12.29-00.48.25:690][848]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.29-00.48.47:240][ 12]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player58B20EB2407999BBFE89D7B4F70CFE05.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-00.48.47:266][ 12]AssetCheck: New page: Asset Save: Player
+[2019.12.29-00.48.47:266][ 12]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-00.48.47:793][ 44]BlueprintLog: New page: Compile Player
+[2019.12.29-00.48.47:838][ 44]LogClass: Warning: Type mismatch in selectedObject of Player_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.12.29-00.48.48:086][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.29-00.48.53:595][359]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player61D4267C48DE4B1AADCEA88C386EB228.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-00.48.53:614][359]AssetCheck: New page: Asset Save: Player
+[2019.12.29-00.48.53:614][359]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-00.49.35:537][810]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.29-00.49.44:169][304]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.49.44:426][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.29-00.49.44:928][328]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuildingAB6DF2E941474B02672D6698507BFCD0.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.49.44:943][328]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.49.44:943][328]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.49.53:608][831]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2019.12.29-00.49.53:627][831]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevelE22BCCDE425A5FF7BD87C5BE0651BBDF.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.49.53:676][831]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData932850B34575E693031BF1AA21355283.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.49.53:714][831]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.49.53:714][831]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.49.53:714][831]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.50.01:845][215]Cmd: DELETE
+[2019.12.29-00.50.01:845][215]Cmd: ACTOR DELETE
+[2019.12.29-00.50.02:802][215]LogEditorActor: Deleted Actor: Hut_C
+[2019.12.29-00.50.02:846][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.29-00.50.02:852][215]LogEditorActor: Deleted 1 Actors (0.152 secs)
+[2019.12.29-00.50.06:053][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.29-00.50.06:068][383]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel07A7CD8B431B3755D0B62595B2BFD533.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.50.06:100][383]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData15C171F74920DDC06C508AA96EF7B936.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.50.06:124][383]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.50.06:124][383]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.50.06:124][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.50.27:314][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:314][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:314][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:314][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:314][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:314][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:ReceiveActorBeginCursorOver' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:ReceiveActorEndCursorOver' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:ReceiveActorOnClicked' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:BuildingMesh' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:maxHitpoints' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding_C:currentHitPoints' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:BuildingMesh' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:maxHitpoints' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:currentHitPoints' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:ReceiveActorOnClicked' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:ReceiveActorEndCursorOver' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:ReceiveActorBeginCursorOver' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:315][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/BasicBuilding.SKEL_BasicBuilding_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Buildings/BasicBuilding.PackageMetaData'
+[2019.12.29-00.50.27:461][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:463][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.SKEL_Hut_C' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:463][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut_C' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:463][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:464][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:464][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:464][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:464][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:464][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.Hut:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:465][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.SKEL_Hut_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:465][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.SKEL_Hut_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:465][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.SKEL_Hut_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:465][577]LogMetaData: Removing '/Game/Blueprints/GameObject/Buildings/Hut.SKEL_Hut_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Buildings/Hut.PackageMetaData'
+[2019.12.29-00.50.27:556][577]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuilding7B947CF74613D4A59592DFAF4D047F8D.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.50.27:609][577]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/HutC8E55F124D0B0209235B44B91F5FEE19.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-00.50.27:742][577]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut7857FD7149F0C4A2FE7E1981EACF3EBA.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Buildings/Hut.uasset'
+[2019.12.29-00.50.28:291][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.12.29-00.50.28:496][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.29-00.50.28:542][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.12.29-00.50.28:610][577]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.50.28:610][577]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.50.28:610][577]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/Buildings/Hut.Hut
+[2019.12.29-00.50.28:610][577]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Buildings/Hut.Hut
+[2019.12.29-00.50.28:610][577]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Buildings/Hut.Default__Hut_C
+[2019.12.29-00.50.28:610][577]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Buildings/Hut.Hut_C
+[2019.12.29-00.50.39:670][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.29-00.50.50:400][206]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.29-00.50.50:961][206]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Blueprints/Buildings/Hut.Hut
+	Asset Name: /Game/Blueprints/Buildings/Hut.Default__Hut_C
+	Asset Name: /Game/Blueprints/Buildings/Hut.Hut_C
+[2019.12.29-00.50.56:769][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.29-00.51.09:139][864]Cmd: DELETE
+[2019.12.29-00.51.09:139][864]Cmd: ACTOR DELETE
+[2019.12.29-00.51.09:267][864]LogEditorActor: Deleted Actor: Hut_C
+[2019.12.29-00.51.09:314][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.29-00.51.09:316][864]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.12.29-00.51.14:998][164]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.12.29-00.51.20:770][164]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.29-00.51.34:131][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.29-00.51.34:146][918]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel2DA37A7A4443084C0E6029A3FCA499FC.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-00.51.34:229][918]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData1C41284644201F7FDBE84191C5341788.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-00.51.34:251][918]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-00.51.34:251][918]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-00.51.34:251][918]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-00.51.52:130][904]BlueprintLog: New page: Compile Player
+[2019.12.29-00.51.52:421][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.29-00.51.52:934][916]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerBE1B6DBE4B153A5E7A88E0B840E2A582.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-00.51.52:954][916]AssetCheck: New page: Asset Save: Player
+[2019.12.29-00.51.52:954][916]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-00.51.55:114][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameObject/BaseGameObject.BaseGameObject
+[2019.12.29-00.52.29:544][763]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BaseGameObjectE96F82D44F1974FE97762196938A1B83.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/BaseGameObject.uasset'
+[2019.12.29-00.52.29:562][763]AssetCheck: New page: Asset Save: BaseGameObject
+[2019.12.29-00.52.29:562][763]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/BaseGameObject.BaseGameObject
+[2019.12.29-00.52.45:067][579]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-00.52.51:033][707]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface2936300B43E2E5E40C886EB118B6BBA5.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-00.52.51:056][707]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-00.52.51:056][707]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-00.53.43:442][573]LogSlate: Took 0.174514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.29-00.55.44:330][750]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface08C71DE14E03AAAAF4058EBF04ACE548.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-00.55.44:352][750]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-00.55.44:352][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-00.55.45:342][809]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-00.55.46:127][809]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2019.12.29-00.56.19:908][764]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceDBF272BD4C19078971FDE18F5B203269.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-00.56.19:924][764]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-00.56.19:924][764]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-00.56.20:526][800]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-00.56.20:765][800]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.12.29-00.58.09:240][385]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface3AFAA5AA486281108ED21CB3C54884CC.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/UserInterface.uasset'
+[2019.12.29-00.58.13:139][385]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-00.58.13:161][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface.UserInterface
+[2019.12.29-00.58.13:421][386]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-00.58.15:952][386]LogUObjectHash: Compacting FUObjectHashTables data took  23.83ms
+[2019.12.29-00.58.16:185][386]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-00.58.16:245][386]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.12.29-00.59.16:317][435]BlueprintLog: New page: Compile BaseGameObject
+[2019.12.29-00.59.19:841][435]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.12.29-00.59.25:135][663]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BaseGameObject015D990E468F929D111FBB88893EF272.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/BaseGameObject.uasset'
+[2019.12.29-00.59.25:180][663]AssetCheck: New page: Asset Save: BaseGameObject
+[2019.12.29-00.59.25:180][663]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/BaseGameObject.BaseGameObject
+[2019.12.29-00.59.38:701][415]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.29-00.59.45:803][821]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding from Actor to BaseGameObject_C...
+[2019.12.29-00.59.46:568][821]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.59.48:173][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.29-00.59.51:151][959]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/BasicBuilding5992A41C41903A937B93BB8AFC35A294.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/BasicBuilding.uasset'
+[2019.12.29-00.59.51:229][959]AssetCheck: New page: Asset Save: BasicBuilding
+[2019.12.29-00.59.51:229][959]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/Buildings/BasicBuilding.BasicBuilding
+[2019.12.29-00.59.52:185][ 16]BlueprintLog: New page: Compile BasicBuilding
+[2019.12.29-00.59.52:500][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2019.12.29-01.00.26:135][831]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut98BE2ABD43893D100ECF53A261EE52AF.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-01.00.26:183][831]AssetCheck: New page: Asset Save: Hut
+[2019.12.29-01.00.26:183][831]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameObject/Buildings/Hut.Hut
+[2019.12.29-01.00.26:659][857]BlueprintLog: New page: Compile Hut
+[2019.12.29-01.00.27:020][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.29-01.00.30:689][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.12.29-01.00.30:984][ 26]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel88CF875649DE4FA2DBA3BF9D6A96C502.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-01.00.31:240][ 26]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataBDFE735648C3EE148F8698B67DEA51DE.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-01.00.31:240][ 26]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset', retrying in .5s...
+[2019.12.29-01.00.31:742][ 26]LogFileManager: Warning: DeleteFile recovered during retry!
+[2019.12.29-01.00.31:826][ 26]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-01.00.31:826][ 26]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-01.00.31:826][ 26]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-01.00.38:756][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.12.29-01.00.38:775][260]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel55DA14404CA663BF4E3FFFA3C17E7C65.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-01.00.38:814][260]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataB1CCDB4B4E7CCFAA9A6827B80BDC753A.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-01.00.38:847][260]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-01.00.38:847][260]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-01.00.38:847][260]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
