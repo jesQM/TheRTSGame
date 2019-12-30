@@ -1,0 +1,1880 @@
+﻿Log file open, 12/29/19 17:33:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RealTimeGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 13.488847
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/MisArchivos/UnrealEngine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.29-16.33.11:378][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.29-16.33.11:378][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.29-16.33.11:385][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.29-16.33.11:385][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.29-16.33.11:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.29-16.33.11:403][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2019.12.29-16.33.11:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2019.12.29-16.33.11:445][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.29-16.33.11:445][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.29-16.33.11:522][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.29-16.33.11:522][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.29-16.33.11:537][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.29-16.33.11:537][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2019.12.29-16.33.11:538][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.29-16.33.11:539][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.29-16.33.11:539][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.29-16.33.11:539][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.29-16.33.11:549][  0]LogInit: Computer: LAPTOP-RJTE4B6M
+[2019.12.29-16.33.11:549][  0]LogInit: User: myself
+[2019.12.29-16.33.11:549][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.29-16.33.11:549][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.29-16.33.11:549][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.12.29-16.33.11:549][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.29-16.33.11:549][  0]LogMemory: Process Physical Memory: 106.54 MB used, 106.54 MB peak
+[2019.12.29-16.33.11:549][  0]LogMemory: Process Virtual Memory: 101.36 MB used, 101.36 MB peak
+[2019.12.29-16.33.11:549][  0]LogMemory: Physical Memory: 6862.91 MB used,  1171.39 MB free, 8034.30 MB total
+[2019.12.29-16.33.11:549][  0]LogMemory: Virtual Memory: 5159.21 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2019.12.29-16.33.11:570][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.29-16.33.12:890][  0]LogInit: Overriding language with editor language configuration option (en-GB).
+[2019.12.29-16.33.12:890][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.12.29-16.33.12:890][  0]LogInit: Using OS detected locale (es-ES).
+[2019.12.29-16.33.12:905][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.29-16.33.13:774][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.29-16.33.14:736][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.29-16.33.14:736][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.29-16.33.15:516][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.29-16.33.15:516][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2019.12.29-16.33.15:516][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2019.12.29-16.33.15:516][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.29-16.33.15:706][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.29-16.33.15:706][  0]LogD3D11RHI:       4029/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.29-16.33.15:718][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.29-16.33.15:718][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.29-16.33.15:726][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.29-16.33.15:726][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.29-16.33.15:726][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.29-16.33.15:828][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.29-16.33.15:828][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.29-16.33.15:828][  0]LogWindows: EnumDisplayDevices:
+[2019.12.29-16.33.15:828][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.29-16.33.15:828][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.29-16.33.15:829][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.29-16.33.15:829][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.29-16.33.15:829][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.12.29-16.33.15:829][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.29-16.33.15:829][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.12.29-16.33.15:829][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.12.29-16.33.15:829][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2019.12.29-16.33.15:871][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2019.12.29-16.33.15:874][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.29-16.33.16:182][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.29-16.33.17:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2019.12.29-16.33.17:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2019.12.29-16.33.17:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2019.12.29-16.33.17:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2019.12.29-16.33.17:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.29-16.33.17:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2019.12.29-16.33.17:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2019.12.29-16.33.17:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2019.12.29-16.33.17:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2019.12.29-16.33.17:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2019.12.29-16.33.17:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2019.12.29-16.33.17:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2019.12.29-16.33.17:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2019.12.29-16.33.17:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2019.12.29-16.33.17:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.29-16.33.17:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2019.12.29-16.33.17:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2019.12.29-16.33.17:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2019.12.29-16.33.17:725][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.29-16.33.17:921][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.29-16.33.18:582][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Intermediate/Shaders/WorkingDirectory/155572/).
+[2019.12.29-16.33.18:583][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/myself/AppData/Local/Temp/UnrealShaderWorkingDir/50DA758D46E9D47CD06CFE8A37044469/'.
+[2019.12.29-16.33.18:586][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.29-16.33.18:586][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.29-16.33.18:586][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.29-16.33.21:095][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.29-16.33.21:527][  0]LogDerivedDataCache: Loaded boot cache 0.43s 78MB C:/Users/myself/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2019.12.29-16.33.21:527][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/myself/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2019.12.29-16.33.21:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.29-16.33.21:528][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.29-16.33.21:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.29-16.33.21:528][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.29-16.33.21:656][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.29-16.33.21:656][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.29-16.33.21:656][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.29-16.33.21:733][  0]LogDerivedDataCache: Using Local data cache path C:/Users/myself/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.29-16.33.21:733][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.29-16.33.21:733][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.29-16.33.21:825][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.29-16.33.21:927][  0]LogSlate: Using FreeType 2.10.0
+[2019.12.29-16.33.22:030][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.29-16.33.23:041][  0]LogAssetRegistry: FAssetRegistry took 0.0113 seconds to start up
+[2019.12.29-16.33.31:010][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.29-16.33.35:574][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.29-16.33.35:574][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.29-16.33.35:574][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.29-16.33.35:574][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.29-16.33.35:590][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.29-16.33.36:549][  0]LogNetVersion: RealTimeGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2623926157)
+[2019.12.29-16.33.53:143][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 1.217189 seconds
+[2019.12.29-16.33.53:228][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2019.12.29-16.33.53:228][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2019.12.29-16.33.53:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.29-16.34.00:834][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.29-16.34.00:865][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.29-16.34.01:955][  0]SourceControl: Source control is disabled
+[2019.12.29-16.34.01:955][  0]SourceControl: Source control is disabled
+[2019.12.29-16.34.02:063][  0]SourceControl: Source control is disabled
+[2019.12.29-16.34.02:134][  0]SourceControl: Source control is disabled
+[2019.12.29-16.34.02:153][  0]SourceControl: Source control is disabled
+[2019.12.29-16.34.05:055][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.29-16.34.05:232][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2019.12.29-16.34.05:232][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2019.12.29-16.34.06:196][  0]LogOcInput: OculusInput pre-init called
+[2019.12.29-16.34.06:366][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.29-16.34.06:366][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.29-16.34.09:730][  0]LogEngine: Initializing Engine...
+[2019.12.29-16.34.09:858][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.29-16.34.10:063][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.126 s
+[2019.12.29-16.34.11:460][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.29-16.34.12:967][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.29-16.34.13:339][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-16.34.13:339][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-16.34.13:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-16.34.13:339][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-16.34.13:339][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-16.34.13:339][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-16.34.13:339][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-16.34.13:339][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-16.34.13:374][  0]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-16.34.13:375][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: Channel Order:
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-16.34.13:673][  0]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-16.34.13:701][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.34.13:894][  0]LogInit: FAudioDevice initialized.
+[2019.12.29-16.34.13:985][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.29-16.34.14:845][  0]LogDerivedDataCache: Saved boot cache 0.85s 78MB C:/Users/myself/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2019.12.29-16.34.14:897][  0]LogInit: Texture streaming: Enabled
+[2019.12.29-16.34.15:295][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.29-16.34.15:309][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.29-16.34.15:328][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.29-16.34.16:314][  0]LogInit: Transaction tracking system initialized
+[2019.12.29-16.34.16:945][  0]BlueprintLog: New page: Editor Load
+[2019.12.29-16.34.19:199][  0]LocalizationService: Localization service is disabled
+[2019.12.29-16.34.26:784][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.29-16.34.26:784][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.29-16.34.28:726][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/' took 1.04s
+[2019.12.29-16.34.39:989][  0]SourceControl: Source control is disabled
+[2019.12.29-16.34.40:017][  0]Cmd: MAP LOAD FILE="../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.29-16.34.40:041][  0]LightingResults: New page: Lighting Build
+[2019.12.29-16.34.40:366][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-16.34.40:420][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.34.40:557][  0]MapCheck: New page: Map Check
+[2019.12.29-16.34.40:557][  0]LightingResults: New page: Lighting Build
+[2019.12.29-16.34.41:223][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.29-16.34.43:872][  0]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-16.34.44:658][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.29-16.34.45:021][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.29-16.34.45:022][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.29-16.34.45:046][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 23,862ms to complete.
+[2019.12.29-16.34.45:046][  0]LogFileHelpers: Loading map 'TestLevel' took 5.052
+[2019.12.29-16.34.48:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.34.48:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.34.48:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.34.48:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.34.49:411][  0]LogCollectionManager: Loaded 0 collections in 0.133388 seconds
+[2019.12.29-16.34.49:695][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Collections/' took 0.00s
+[2019.12.29-16.34.49:695][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Developers/myself/Collections/' took 0.00s
+[2019.12.29-16.34.49:695][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Collections/' took 0.00s
+[2019.12.29-16.34.49:695][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 3015 classes and 717 folders.
+[2019.12.29-16.34.49:821][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.29-16.34.51:795][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.29-16.34.51:864][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.12.29-16.34.53:201][  0]LogSlate: Took 0.060354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.29-16.34.53:283][  0]LogSlate: Took 0.047482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.29-16.34.53:342][  0]LogSlate: Took 0.015791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.29-16.34.53:996][  0]LogRenderer: Reallocating scene render targets to support 888x432 Format 10 NumSamples 1 (Frame:1).
+[2019.12.29-16.34.54:624][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.29-16.34.54:624][  0]LogLoad: (Engine Initialization) Total time: 163.30 seconds
+[2019.12.29-16.34.54:624][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.29-16.34.55:288][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.29-16.34.55:976][  0]LogSlate: Took 0.052155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.29-16.34.58:928][ 27]LogAssetRegistry: Asset discovery search completed in 95.8880 seconds
+[2019.12.29-16.34.58:958][ 27]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008621 seconds (updated 0 objects)
+[2019.12.29-16.35.01:867][ 36]LogFileCache: Retrieving MD5 hashes for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/' took 6.94s
+[2019.12.29-16.36.36:951][674]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.29-16.36.37:276][674]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.36.38:497][674]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.29-16.36.42:337][674]LogSlate: Took 0.057208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.29-16.37.40:543][893]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceA562056B4BC1FE63E5D9DA8C2163A996.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Interfaces/UserInterface.uasset'
+[2019.12.29-16.37.40:578][893]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-16.37.40:578][893]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.37.40:896][908]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-16.37.41:205][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.12.29-16.37.45:931][161]LogSlate: Took 0.020754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.29-16.38.20:251][157]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceCE954EFC4C9C85DB25C3038528999264.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Interfaces/UserInterface.uasset'
+[2019.12.29-16.38.20:269][157]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-16.38.20:269][157]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.38.20:678][180]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-16.38.20:788][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.29-16.38.23:341][327]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-16.38.23:425][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-16.38.23:499][327]PIE: New page: PIE session: TestLevel (29 dic. 2019 18:38:23)
+[2019.12.29-16.38.23:719][327]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.29-16.38.23:765][327]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2019.12.29-16.38.23:803][327]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.38.23:829][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024928s)
+[2019.12.29-16.38.23:849][327]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-16.38.23:907][327]LogPlayLevel: PIE: World Init took: (0.078872s)
+[2019.12.29-16.38.23:907][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.104073s)
+[2019.12.29-16.38.23:939][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.29-16.38.23:963][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-16.38.23:963][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-16.38.23:963][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-16.38.23:963][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-16.38.23:963][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-16.38.23:963][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-16.38.23:963][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-16.38.23:964][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-16.38.23:964][327]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-16.38.23:964][327]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: Channel Order:
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-16.38.23:972][327]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-16.38.23:989][327]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.38.23:990][327]LogInit: FAudioDevice initialized.
+[2019.12.29-16.38.24:200][327]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-16.38.24:202][327]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-17.38.24
+[2019.12.29-16.38.24:229][327]LogWorld: Bringing up level for play took: 0.027462
+[2019.12.29-16.38.24:230][327]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.29-16.38.24:564][327]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.29-16.38.24:744][327]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,729
+[2019.12.29-16.38.31:077][578]LogSlate: Window 'UserInterface' being destroyed
+[2019.12.29-16.38.34:305][757]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.35:387][820]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.35:787][844]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.35:987][856]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.36:137][865]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.36:304][875]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.36:471][885]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.36:637][895]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.36:804][905]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.36:954][914]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.37:837][967]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.38:020][978]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.38:171][987]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.38:354][998]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.38:504][  7]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.39:906][ 91]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.38.39:956][ 94]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.38.40:755][142]LogBlueprintUserMessages: [Hut_C_11] mouse over
+[2019.12.29-16.38.40:871][149]LogBlueprintUserMessages: [Hut_C_11] mouse away
+[2019.12.29-16.38.40:938][153]LogBlueprintUserMessages: [Hut_C_10] mouse over
+[2019.12.29-16.38.41:022][158]LogBlueprintUserMessages: [Hut_C_10] mouse away
+[2019.12.29-16.38.42:206][229]LogBlueprintUserMessages: [Hut_C_5] mouse over
+[2019.12.29-16.38.42:256][232]LogBlueprintUserMessages: [Hut_C_5] mouse away
+[2019.12.29-16.38.42:358][238]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.38.42:407][241]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.38.42:888][270]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.43:037][279]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.43:188][288]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.43:354][298]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.43:788][324]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.44:670][377]LogBlueprintUserMessages: [UserInterface_C_0] Hut Built
+[2019.12.29-16.38.45:123][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.38.45:123][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.38.45:229][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.38.45:229][404]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.38.45:229][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.38.45:229][404]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-16.38.45:230][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.38.45:262][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-16.38.45:269][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.38.45:406][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.38.45:476][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.38.45:606][404]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.12.29-16.38.45:636][405]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.29-16.45.29:754][463]LogEditorTransaction: Undo Delete current selection
+[2019.12.29-16.45.45:283][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.46.16:981][108]LogSlate: Took 0.025987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.29-16.46.29:261][825]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player972BCD914143D79E04EE6A9E29A0ABAC.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.46.29:275][825]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.46.29:275][825]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.46.29:641][847]BlueprintLog: New page: Compile Player
+[2019.12.29-16.46.30:653][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.12.29-16.46.38:841][325]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player6EA5F70C47FDF031B6035F8867B08CCC.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.46.38:858][325]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.46.38:858][325]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.46.41:236][464]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-16.46.41:284][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.29-16.46.42:090][507]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface6E6DB5E84F1DC135FCD7F58103EBF579.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Interfaces/UserInterface.uasset'
+[2019.12.29-16.46.42:106][507]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-16.46.42:106][507]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.46.53:879][193]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-16.46.53:905][193]LogBlueprint: Error: [Compiler UserInterface] This blueprint (self) is not a Player_C, therefore ' Target ' must have a connection.
+[2019.12.29-16.46.53:947][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.29-16.46.54:670][226]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface27F50C014C3E263DF59054878C2F8A18.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Interfaces/UserInterface.uasset'
+[2019.12.29-16.46.54:685][226]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-16.46.54:685][226]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.46.58:296][436]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerBAFE39EC4B12A859D537978D840F02E7.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.46.58:314][436]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.46.58:314][436]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.47.15:290][431]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceD678FE1F438BCD6F1D24299A0005A172.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Interfaces/UserInterface.uasset'
+[2019.12.29-16.47.15:309][431]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-16.47.15:309][431]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.47.15:685][454]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-16.47.15:731][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.29-16.48.08:598][478]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player2068337C40382B78F2926F8339ABAD98.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.48.08:616][478]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.48.08:616][478]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.48.08:747][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.12.29-16.48.08:749][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.051
+[2019.12.29-16.48.08:834][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Interfaces/UserInterface] ([1] browsable assets)...
+[2019.12.29-16.48.08:834][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interfaces/UserInterface]
+[2019.12.29-16.48.08:850][479]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface_Auto1096D34F445D0351B08138D9F1B39B089.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Autosaves/Game/Blueprints/Interfaces/UserInterface_Auto1.uasset'
+[2019.12.29-16.48.08:889][479]LogFileHelpers: Auto-saving content packages took 0.141
+[2019.12.29-16.48.09:844][535]BlueprintLog: New page: Compile Player
+[2019.12.29-16.48.10:082][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.29-16.48.16:197][880]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterfaceC63672304F0D69B55F292F8F22DEBF55.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Interfaces/UserInterface.uasset'
+[2019.12.29-16.48.16:214][880]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-16.48.16:214][880]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.48.16:590][903]BlueprintLog: New page: Compile UserInterface
+[2019.12.29-16.48.16:792][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.12.29-16.48.24:222][335]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerEBFB762846A9B7DF2075BA8D6CC0EB29.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.48.24:237][335]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.48.24:237][335]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.49.38:186][851]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerCE6597A049EB0C081F6043B7F23A106E.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.49.38:205][851]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.49.38:205][851]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.49.38:541][871]BlueprintLog: New page: Compile Player
+[2019.12.29-16.49.38:754][871]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.29-16.50.03:510][215]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player276F213A4FE10EC36B8C50A8B80A2B9B.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.50.03:528][215]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.50.03:528][215]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.50.03:934][240]BlueprintLog: New page: Compile Player
+[2019.12.29-16.50.03:946][240]LogBlueprint: Error: [Compiler Player] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.12.29-16.50.03:946][240]LogBlueprint: Error: [Compiler Player] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.12.29-16.50.04:202][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.12.29-16.53.36:481][567]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerD26A33BD45E7D0B40A4977B27FC4B348.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.53.36:504][567]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.53.36:505][567]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.53.36:769][582]BlueprintLog: New page: Compile Player
+[2019.12.29-16.53.37:000][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.12.29-16.53.54:719][610]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player7A18BF2841F00E4A7C57E980FBAC427A.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.53.54:735][610]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.53.54:735][610]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.53.54:977][624]BlueprintLog: New page: Compile Player
+[2019.12.29-16.53.55:240][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.29-16.54.23:418][619]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerBB6D8C5E481277324D0F1488B4C0E6C5.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.54.23:444][619]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.54.23:444][619]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.54.23:684][633]BlueprintLog: New page: Compile Player
+[2019.12.29-16.54.23:909][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.12.29-16.55.34:286][  5]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player758AD6634B8BFBB11C228FAC886EB5B6.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.55.34:331][  5]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.55.34:331][  5]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.55.35:247][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-16.55.35:512][ 60]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.29-16.55.35:526][ 60]LogPlayLevel: [PlayLevel] Compiling UserInterface before play...
+[2019.12.29-16.55.35:741][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.12.29-16.55.35:742][ 60]LogPlayLevel: PlayLevel: Blueprint regeneration took 230 ms (1 blueprints)
+[2019.12.29-16.55.35:841][ 60]PIE: New page: PIE session: TestLevel (29 dic. 2019 18:55:35)
+[2019.12.29-16.55.35:867][ 60]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.55.35:920][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052785s)
+[2019.12.29-16.55.36:162][ 60]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-16.55.36:177][ 60]LogPlayLevel: PIE: World Init took: (0.256940s)
+[2019.12.29-16.55.36:177][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.309920s)
+[2019.12.29-16.55.36:217][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.29-16.55.36:330][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-16.55.36:330][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-16.55.36:330][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-16.55.36:330][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-16.55.36:330][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-16.55.36:330][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-16.55.36:330][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-16.55.36:330][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-16.55.36:331][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-16.55.36:331][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: Channel Order:
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-16.55.36:341][ 60]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-16.55.36:359][ 60]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.55.36:389][ 60]LogInit: FAudioDevice initialized.
+[2019.12.29-16.55.36:476][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.55.36:477][ 60]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-16.55.36:512][ 60]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-17.55.36
+[2019.12.29-16.55.36:513][ 60]LogWorld: Bringing up level for play took: 0.035664
+[2019.12.29-16.55.36:552][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.29-16.55.36:829][ 60]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,814
+[2019.12.29-16.55.37:213][ 61]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2019.12.29-16.55.38:632][134]LogScript: Warning: Accessed None trying to read property buildModeObject
+	Player_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04FA
+[2019.12.29-16.55.38:637][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property buildModeObject". Blueprint:  Player Function:  Execute Ubergraph Player Graph:  EventGraph Node:  DestroyActor
+[2019.12.29-16.55.47:215][640]LogBlueprintUserMessages: [Hut_C_11] mouse over
+[2019.12.29-16.55.47:264][643]LogBlueprintUserMessages: [Hut_C_11] mouse away
+[2019.12.29-16.55.47:681][668]LogBlueprintUserMessages: [Hut_C_11] mouse over
+[2019.12.29-16.55.47:797][675]LogBlueprintUserMessages: [Hut_C_11] mouse away
+[2019.12.29-16.55.48:315][706]LogBlueprintUserMessages: [Hut_C_11] mouse over
+[2019.12.29-16.55.48:814][728]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:821][729]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:832][730]LogBlueprintUserMessages: [Hut_C_11] mouse away
+[2019.12.29-16.55.48:837][730]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:856][731]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:897][732]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:942][733]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:963][734]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:978][735]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.48:991][736]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:008][737]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:024][738]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:041][739]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:058][740]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:074][741]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:091][742]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:108][743]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:124][744]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:141][745]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:158][746]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:174][747]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:191][748]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:208][749]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:224][750]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:241][751]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:258][752]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:274][753]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:291][754]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:308][755]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:325][756]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:342][757]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:359][758]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:375][759]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:391][760]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:408][761]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:425][762]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:441][763]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:458][764]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:474][765]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:491][766]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:508][767]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:525][768]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:541][769]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:558][770]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:574][771]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:591][772]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:607][773]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:625][774]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:640][775]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:657][776]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:673][777]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:690][778]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:707][779]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:724][780]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:740][781]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:757][782]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:773][783]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:790][784]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:807][785]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:824][786]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:840][787]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:858][788]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:875][789]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:891][790]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:907][791]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:924][792]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:941][793]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:957][794]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:974][795]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.49:990][796]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:007][797]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:024][798]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:041][799]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:058][800]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:074][801]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:091][802]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:108][803]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:124][804]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:141][805]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:158][806]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:174][807]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:191][808]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:208][809]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:224][810]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:241][811]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:258][812]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:275][813]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:292][814]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:309][815]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:325][816]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:342][817]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:359][818]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:375][819]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:392][820]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:408][821]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:424][822]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:441][823]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:457][824]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:475][825]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:492][826]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:508][827]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:539][828]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:550][829]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:565][830]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:579][831]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:596][832]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:613][833]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:629][834]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:645][835]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:662][836]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:679][837]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:695][838]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:712][839]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:729][840]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:745][841]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:762][842]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:779][843]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:796][844]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:813][845]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:829][846]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:847][847]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:888][848]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:906][849]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.50:955][850]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:006][851]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:022][852]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:056][853]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:089][854]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:099][855]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:115][856]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:140][857]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:150][858]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:166][859]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:181][860]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:197][861]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:213][862]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:231][863]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:247][864]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:265][865]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:289][866]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:301][867]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:315][868]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:339][869]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:351][870]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:367][871]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:382][872]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:397][873]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:413][874]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:430][875]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:447][876]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:463][877]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:480][878]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:497][879]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:513][880]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:531][881]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:546][882]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:564][883]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:580][884]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:596][885]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:613][886]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:630][887]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:646][888]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:662][889]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:679][890]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:696][891]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:712][892]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:729][893]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:746][894]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:763][895]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:779][896]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:796][897]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:812][898]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:829][899]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:846][900]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:863][901]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:880][902]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:897][903]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:913][904]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:931][905]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:946][906]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:963][907]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:980][908]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.51:997][909]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:012][910]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:029][911]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:045][912]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:062][913]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:079][914]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:096][915]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:112][916]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:129][917]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:146][918]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:162][919]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:179][920]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:197][921]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:213][922]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:231][923]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:247][924]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:265][925]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:281][926]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:298][927]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:314][928]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:330][929]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:347][930]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:364][931]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:381][932]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:398][933]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:414][934]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:431][935]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:447][936]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:464][937]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:481][938]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:498][939]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:514][940]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:531][941]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:547][942]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:564][943]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:580][944]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:597][945]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:615][946]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:631][947]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:647][948]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:664][949]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:680][950]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:698][951]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:713][952]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:730][953]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:747][954]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:764][955]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.55.52:775][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.55.52:776][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.55.52:817][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.55.52:817][956]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.55.52:925][956]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-16.55.52:932][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.55.52:932][956]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-16.55.52:933][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.55.52:977][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-16.55.53:056][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.55.53:115][956]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.55.53:158][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.12.29-16.55.53:384][957]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.29-16.55.56:750][152]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.55.56:754][152]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.55.57:539][199]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-16.55.57:558][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-16.55.57:558][199]PIE: New page: PIE session: TestLevel (29 dic. 2019 18:55:57)
+[2019.12.29-16.55.57:558][199]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.55.57:560][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002064s)
+[2019.12.29-16.55.57:561][199]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-16.55.57:561][199]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.12.29-16.55.57:561][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.003066s)
+[2019.12.29-16.55.57:598][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-16.55.57:599][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-16.55.57:599][199]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-16.55.57:599][199]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: Channel Order:
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-16.55.57:605][199]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-16.55.57:620][199]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.55.57:621][199]LogInit: FAudioDevice initialized.
+[2019.12.29-16.55.57:677][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.55.57:677][199]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-16.55.57:678][199]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-17.55.57
+[2019.12.29-16.55.57:679][199]LogWorld: Bringing up level for play took: 0.000971
+[2019.12.29-16.55.57:679][199]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.29-16.55.57:684][199]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,668
+[2019.12.29-16.56.00:248][344]LogScript: Warning: Accessed None trying to read property buildModeObject
+	Player_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04FA
+[2019.12.29-16.56.00:248][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property buildModeObject". Blueprint:  Player Function:  Execute Ubergraph Player Graph:  EventGraph Node:  DestroyActor
+[2019.12.29-16.56.01:634][427]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.56.01:667][429]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.56.03:584][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.56.03:584][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.56.03:584][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.56.03:584][544]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.56.03:595][544]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-16.56.03:602][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.56.03:602][544]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-16.56.03:603][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.56.03:613][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-16.56.03:622][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.56.03:660][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.56.03:670][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.29-16.56.03:798][545]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.29-16.56.15:064][ 99]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.56.15:070][ 99]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.56.46:795][966]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player7E774C2C4C9F377142FC3A8F7593655F.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.56.46:816][966]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.56.46:816][966]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.56.47:149][985]BlueprintLog: New page: Compile Player
+[2019.12.29-16.56.47:381][985]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.12.29-16.57.00:193][727]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/PlayerDFA8EC3545B9B20ABE5BF18C03441C70.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.57.00:212][727]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.57.00:212][727]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.57.00:500][744]BlueprintLog: New page: Compile Player
+[2019.12.29-16.57.00:740][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.29-16.57.01:628][794]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-16.57.01:649][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-16.57.01:649][794]PIE: New page: PIE session: TestLevel (29 dic. 2019 18:57:01)
+[2019.12.29-16.57.01:649][794]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.57.01:652][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002147s)
+[2019.12.29-16.57.01:652][794]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-16.57.01:653][794]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2019.12.29-16.57.01:653][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.003189s)
+[2019.12.29-16.57.01:690][794]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.29-16.57.01:691][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-16.57.01:691][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-16.57.01:691][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-16.57.01:691][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-16.57.01:693][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-16.57.01:693][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-16.57.01:693][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-16.57.01:693][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-16.57.01:694][794]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-16.57.01:694][794]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: Channel Order:
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-16.57.01:699][794]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-16.57.01:715][794]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.57.01:717][794]LogInit: FAudioDevice initialized.
+[2019.12.29-16.57.01:765][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.57.01:766][794]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-16.57.01:768][794]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-17.57.01
+[2019.12.29-16.57.01:768][794]LogWorld: Bringing up level for play took: 0.001147
+[2019.12.29-16.57.01:768][794]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.29-16.57.01:774][794]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,759
+[2019.12.29-16.57.04:018][912]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.04:084][916]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.04:218][924]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.04:234][925]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.04:417][936]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.04:435][937]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.04:618][948]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.04:700][953]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.04:818][960]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.04:867][963]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.05:018][972]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.05:084][976]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.05:218][984]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.05:285][988]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.05:418][996]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.05:918][ 26]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.06:018][ 32]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.06:067][ 35]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.06:218][ 44]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.06:301][ 49]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.06:418][ 56]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.06:942][ 87]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.06:957][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.06:974][ 89]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.06:990][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:008][ 91]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:024][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:041][ 93]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:058][ 94]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:074][ 95]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:091][ 96]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:108][ 97]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:124][ 98]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:141][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:158][100]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:174][101]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:191][102]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:208][103]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:224][104]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:241][105]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:258][106]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:275][107]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:291][108]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:308][109]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:324][110]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:341][111]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:358][112]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:375][113]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:391][114]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:409][115]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:425][116]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:441][117]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:458][118]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:474][119]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:491][120]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:508][121]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:524][122]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:542][123]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:558][124]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:574][125]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:591][126]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:608][127]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:625][128]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:643][129]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:659][130]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:676][131]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:693][132]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:710][133]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:726][134]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:743][135]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:759][136]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:776][137]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:791][138]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:809][139]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:825][140]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:842][141]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:859][142]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:876][143]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:892][144]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:909][145]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:925][146]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:943][147]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:959][148]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:975][149]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.07:991][150]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:008][151]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:025][152]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:042][153]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:058][154]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:075][155]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:092][156]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:109][157]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:126][158]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:142][159]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:159][160]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:176][161]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:192][162]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:209][163]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:226][164]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:243][165]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:258][166]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:275][167]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:291][168]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:308][169]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:325][170]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:342][171]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:358][172]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:376][173]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:392][174]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:409][175]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:426][176]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:442][177]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:458][178]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:475][179]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:492][180]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:510][181]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:526][182]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:544][183]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:551][184]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.08:560][184]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:578][185]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:595][186]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:613][187]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:622][188]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.08:632][188]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:646][189]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:662][190]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:678][191]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:694][192]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:711][193]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:727][194]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:745][195]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:761][196]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:770][197]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.08:777][197]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:792][198]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:809][199]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:817][200]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.08:825][200]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:842][201]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:859][202]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:875][203]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:892][204]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:909][205]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:925][206]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:942][207]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:959][208]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:976][209]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.08:992][210]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:009][211]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:026][212]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:042][213]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:059][214]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:075][215]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:092][216]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:109][217]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:126][218]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:141][219]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:158][220]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:175][221]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:192][222]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:208][223]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:225][224]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:241][225]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:259][226]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:275][227]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:292][228]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:309][229]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:326][230]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:343][231]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:359][232]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:376][233]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:393][234]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:409][235]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:426][236]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:442][237]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:460][238]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:476][239]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:493][240]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:510][241]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:526][242]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:543][243]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:559][244]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:577][245]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:593][246]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:611][247]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:627][248]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:643][249]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:660][250]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:676][251]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:693][252]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:709][253]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:726][254]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:742][255]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:759][256]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:775][257]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:792][258]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:809][259]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:825][260]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:842][261]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:859][262]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:875][263]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:892][264]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:909][265]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:925][266]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:942][267]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:958][268]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:975][269]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.09:991][270]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:008][271]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:025][272]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:041][273]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:058][274]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:075][275]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:092][276]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:108][277]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:125][278]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:142][279]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:159][280]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:175][281]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:192][282]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:209][283]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:225][284]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:242][285]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:259][286]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:275][287]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:292][288]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:308][289]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:326][290]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:343][291]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:359][292]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:375][293]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:392][294]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:409][295]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:425][296]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:441][297]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:458][298]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:474][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:491][300]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:508][301]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:525][302]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:542][303]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:558][304]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:575][305]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:592][306]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:610][307]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:626][308]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:641][309]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:658][310]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:675][311]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:691][312]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:708][313]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:724][314]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:741][315]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:758][316]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:774][317]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:786][318]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.10:791][318]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:808][319]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:819][320]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.10:824][320]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:842][321]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:858][322]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:874][323]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:891][324]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:908][325]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:925][326]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:942][327]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:957][328]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:974][329]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.10:991][330]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:007][331]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:024][332]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:041][333]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:058][334]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:074][335]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:086][336]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.11:091][336]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:108][337]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:124][338]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:142][339]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:152][340]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-16.57.11:158][340]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:175][341]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:191][342]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:208][343]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:219][344]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-16.57.11:219][344]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.11:224][344]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:241][345]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:258][346]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:274][347]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:291][348]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:308][349]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:324][350]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:341][351]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:358][352]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:375][353]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:391][354]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:407][355]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:424][356]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:441][357]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:458][358]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:474][359]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:493][360]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:508][361]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:525][362]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:541][363]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:558][364]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:574][365]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:591][366]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:608][367]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:624][368]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:641][369]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:658][370]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:674][371]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:691][372]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:707][373]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:724][374]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:741][375]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:758][376]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:774][377]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:791][378]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:807][379]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:824][380]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:841][381]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:858][382]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:874][383]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:891][384]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:907][385]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:924][386]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:941][387]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:958][388]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:974][389]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.11:991][390]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:008][391]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:024][392]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:040][393]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:057][394]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:073][395]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:092][396]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:107][397]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:124][398]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:140][399]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:159][400]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:174][401]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:191][402]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:207][403]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:224][404]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:241][405]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:258][406]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:274][407]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:291][408]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:307][409]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:324][410]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:341][411]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:358][412]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:374][413]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:390][414]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:407][415]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:424][416]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:440][417]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:457][418]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:474][419]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:490][420]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:507][421]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:524][422]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:541][423]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:557][424]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:574][425]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:591][426]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:607][427]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:624][428]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:641][429]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:658][430]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:674][431]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:691][432]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:707][433]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:724][434]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:741][435]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:757][436]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:774][437]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:790][438]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:807][439]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:824][440]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:840][441]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:857][442]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:874][443]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:890][444]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:907][445]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:924][446]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:940][447]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:957][448]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:974][449]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.12:991][450]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:007][451]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:024][452]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:040][453]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:057][454]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:073][455]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:090][456]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:107][457]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:124][458]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:140][459]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:157][460]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:173][461]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:191][462]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:207][463]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:224][464]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:240][465]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:256][466]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:273][467]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:290][468]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:307][469]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:324][470]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:340][471]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:357][472]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:374][473]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:390][474]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:402][475]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.13:402][475]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-16.57.13:407][475]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:419][476]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-16.57.13:419][476]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.13:424][476]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:435][477]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.13:435][477]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-16.57.13:440][477]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:457][478]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:473][479]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:490][480]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:507][481]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.12.29-16.57.13:618][488]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-16.57.13:618][488]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.13:768][497]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.13:768][497]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-16.57.13:785][498]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-16.57.13:819][500]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.13:852][502]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.14:019][512]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.14:319][530]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.14:419][536]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.14:469][539]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.14:619][548]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.14:769][557]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.14:819][560]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.14:901][565]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.15:018][572]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.15:068][575]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.15:218][584]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.15:837][621]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.16:018][632]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.16:035][633]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.16:218][644]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.16:268][647]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.18:652][788]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.18:702][791]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.18:853][800]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.18:936][805]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.18:936][805]LogBlueprintUserMessages: [Hut2] mouse over
+[2019.12.29-16.57.19:052][812]LogBlueprintUserMessages: [Hut2] mouse away
+[2019.12.29-16.57.19:052][812]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.19:502][839]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.19:653][848]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.23:252][ 64]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.57.23:453][ 76]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.57.24:854][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.57.24:854][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.57.24:854][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.57.24:854][160]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.57.24:864][160]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-16.57.24:872][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.57.24:872][160]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-16.57.24:872][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.57.24:881][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-16.57.24:891][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.57.24:936][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.57.24:950][160]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2019.12.29-16.57.24:973][161]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.29-16.58.13:529][196]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player77D53B394D384D22A3399499DBF44A48.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.58.13:549][196]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.58.13:549][196]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.58.13:828][212]BlueprintLog: New page: Compile Player
+[2019.12.29-16.58.14:059][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.12.29-16.58.14:879][257]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-16.58.14:899][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-16.58.14:899][257]PIE: New page: PIE session: TestLevel (29 dic. 2019 18:58:14)
+[2019.12.29-16.58.14:899][257]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.58.14:902][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2019.12.29-16.58.14:902][257]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-16.58.14:903][257]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2019.12.29-16.58.14:903][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.003364s)
+[2019.12.29-16.58.14:946][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-16.58.14:946][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-16.58.14:946][257]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-16.58.14:946][257]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: Channel Order:
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-16.58.14:952][257]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-16.58.14:967][257]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.58.14:969][257]LogInit: FAudioDevice initialized.
+[2019.12.29-16.58.15:056][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.58.15:056][257]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-16.58.15:058][257]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-17.58.15
+[2019.12.29-16.58.15:058][257]LogWorld: Bringing up level for play took: 0.001413
+[2019.12.29-16.58.15:058][257]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.29-16.58.15:063][257]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,047
+[2019.12.29-16.58.17:312][386]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.17:695][409]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.17:712][410]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.17:729][411]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.17:912][422]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.18:862][479]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.18:912][482]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.19:029][489]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.19:111][494]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.19:245][502]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.19:312][506]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.19:495][517]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.19:511][518]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.19:545][520]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.19:712][530]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.20:413][572]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.20:512][578]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.20:528][579]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.20:711][590]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.21:163][617]LogBlueprintUserMessages: [Hut_C_0] mouse away
+[2019.12.29-16.58.21:314][626]LogBlueprintUserMessages: [Hut_C_0] mouse over
+[2019.12.29-16.58.22:280][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.58.22:280][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.58.22:280][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.58.22:280][684]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.58.22:291][684]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-16.58.22:298][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.58.22:298][684]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-16.58.22:298][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.58.22:306][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-16.58.22:317][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.58.22:366][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-16.58.22:376][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.29-16.58.22:398][685]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.29-16.58.30:232][935]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Player3317B10042C60ABA5F17D38A97A62EF2.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Player.uasset'
+[2019.12.29-16.58.30:250][935]AssetCheck: New page: Asset Save: Player
+[2019.12.29-16.58.30:251][935]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2019.12.29-16.58.36:751][277]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/UserInterface8630C35640DE0398B57943B11554EF19.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/Interfaces/UserInterface.uasset'
+[2019.12.29-16.58.36:767][277]AssetCheck: New page: Asset Save: UserInterface
+[2019.12.29-16.58.36:767][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interfaces/UserInterface.UserInterface
+[2019.12.29-16.58.37:784][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.29-16.58.38:098][319]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevelF1D1035B445BC93892CC6DAF706FB5D1.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-16.58.38:449][319]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltData01FB2F8A411449A7F05DADAE1132CB2A.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-16.58.38:499][319]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-16.58.38:499][319]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-16.58.38:499][319]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-16.58.41:395][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.29-16.59.04:428][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameObject/Buildings/Hut.Hut
+[2019.12.29-16.59.07:365][848]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-16.59.07:365][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-16.59.07:539][848]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameObject/Buildings/Hut.Hut
+[2019.12.29-16.59.26:001][748]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut1A33266F40D7FECF022263B9FFC28B23.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.26:018][748]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset', retrying in .5s...
+[2019.12.29-16.59.26:518][748]LogFileManager: Error: Error deleting file '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'.
+[2019.12.29-16.59.26:599][748]LogSavePackage: Error: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.32:617][748]LogSlate: Window 'Message' being destroyed
+[2019.12.29-16.59.32:649][748]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut883EE8864B06E2FA80F4B9BE7D1BA0C0.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.32:649][748]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset', retrying in .5s...
+[2019.12.29-16.59.33:150][748]LogFileManager: Error: Error deleting file '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'.
+[2019.12.29-16.59.33:150][748]LogSavePackage: Error: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.34:367][748]LogSlate: Window 'Message' being destroyed
+[2019.12.29-16.59.34:408][748]EditorErrors: New page: Save Output
+[2019.12.29-16.59.34:408][748]EditorErrors: Warning: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.34:408][748]EditorErrors: Warning: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.37:299][748]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.12.29-16.59.42:657][ 67]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.59.42:665][ 67]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.59.43:621][120]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut083779F34CCB21A3B7E67C83608734E6.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.43:622][120]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset', retrying in .5s...
+[2019.12.29-16.59.44:123][120]LogFileManager: Error: Error deleting file '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'.
+[2019.12.29-16.59.44:123][120]LogSavePackage: Error: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.45:638][120]LogSlate: Window 'Message' being destroyed
+[2019.12.29-16.59.45:681][120]EditorErrors: New page: Save Output
+[2019.12.29-16.59.45:681][120]EditorErrors: Warning: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-16.59.47:252][206]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.59.47:257][206]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-16.59.49:602][343]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.29-16.59.49:621][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.29-16.59.49:621][343]PIE: New page: PIE session: TestLevel (29 dic. 2019 18:59:49)
+[2019.12.29-16.59.49:621][343]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-16.59.49:626][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004494s)
+[2019.12.29-16.59.49:627][343]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.29-16.59.49:730][343]LogPlayLevel: PIE: World Init took: (0.104382s)
+[2019.12.29-16.59.49:730][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.109031s)
+[2019.12.29-16.59.49:794][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.29-16.59.49:796][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.29-16.59.49:797][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.29-16.59.49:797][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.29-16.59.49:797][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.29-16.59.49:797][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.29-16.59.49:797][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.29-16.59.49:797][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.29-16.59.49:797][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.29-16.59.49:797][343]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.29-16.59.49:797][343]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: Is Default: Yes
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: Channel Order:
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.29-16.59.49:803][343]LogAudioMixer: Display: 1: FrontRight
+[2019.12.29-16.59.49:821][343]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.29-16.59.49:822][343]LogInit: FAudioDevice initialized.
+[2019.12.29-16.59.49:857][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-16.59.49:857][343]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.29-16.59.49:860][343]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.29-17.59.49
+[2019.12.29-16.59.49:860][343]LogWorld: Bringing up level for play took: 0.000835
+[2019.12.29-16.59.49:860][343]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.29-16.59.49:866][343]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,851
+[2019.12.29-17.00.04:035][181]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-17.00.04:035][181]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-17.00.04:036][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-17.00.04:036][181]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.29-17.00.04:047][181]LogSlate: Window 'RealTimeGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.29-17.00.04:052][181]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-17.00.04:066][181]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.04:066][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-17.00.04:077][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.29-17.00.04:082][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-17.00.04:127][181]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-17.00.04:135][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.29-17.00.04:180][182]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.29-17.00.08:826][450]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut7DFB9A9E4CCB1183E70CDBBF5732C762.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-17.00.08:826][450]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset', retrying in .5s...
+[2019.12.29-17.00.09:327][450]LogFileManager: Error: Error deleting file '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'.
+[2019.12.29-17.00.09:327][450]LogSavePackage: Error: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-17.00.11:011][450]LogSlate: Window 'Message' being destroyed
+[2019.12.29-17.00.11:050][450]EditorErrors: New page: Save Output
+[2019.12.29-17.00.11:050][450]EditorErrors: Warning: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-17.00.11:999][450]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.12.29-17.00.13:364][526]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-17.00.13:374][526]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-17.00.16:040][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.29-17.00.16:054][678]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevelA52043B149A5A8EEACC65ABFC366FB11.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap'
+[2019.12.29-17.00.16:093][678]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/TestLevel_BuiltDataCB39339B4690EA2D7F61D4B7E10D02BB.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.12.29-17.00.16:111][678]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.29-17.00.16:111][678]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2019.12.29-17.00.16:111][678]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestLevel_BuiltData.TestLevel_BuiltData
+[2019.12.29-17.00.18:268][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.29-17.00.18:350][800]LogSavePackage: Moving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Hut1CB83025421151D95B363B83A0313125.tmp' to '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-17.00.18:350][800]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset', retrying in .5s...
+[2019.12.29-17.00.18:851][800]LogFileManager: Error: Error deleting file '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'.
+[2019.12.29-17.00.18:851][800]LogSavePackage: Error: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-17.00.20:663][800]LogSlate: Window 'Message' being destroyed
+[2019.12.29-17.00.20:716][800]EditorErrors: New page: Save Output
+[2019.12.29-17.00.20:716][800]EditorErrors: Warning: Error saving '../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Blueprints/GameObject/Buildings/Hut.uasset'
+[2019.12.29-17.00.21:778][800]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.12.29-17.00.23:184][878]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-17.00.23:188][878]LogSlate: Window 'Message Log' being destroyed
+[2019.12.29-17.00.24:294][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.29-17.00.26:484][937]LogSlate: Window 'Save Content' being destroyed
+[2019.12.29-17.00.26:770][937]LogSlate: Window 'RealTimeGame - Unreal Editor' being destroyed
+[2019.12.29-17.00.27:537][937]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.27:537][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-17.00.27:547][937]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.27:547][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-17.00.28:366][937]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.28:366][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-17.00.28:718][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.29-17.00.28:718][937]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.28:718][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.29-17.00.29:284][938]Cmd: QUIT_EDITOR
+[2019.12.29-17.00.29:284][938]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2019.12.29-17.00.29:392][938]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2019.12.29-17.00.29:420][938]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.29-17.00.30:278][938]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.29-17.00.30:354][938]LogExit: Preparing to exit.
+[2019.12.29-17.00.31:909][938]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.31:914][938]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.31:918][938]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.32:350][938]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.29-17.00.33:233][938]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-17.00.33:233][938]LogExit: Editor shut down
+[2019.12.29-17.00.33:236][938]LogExit: Transaction tracking system shut down
