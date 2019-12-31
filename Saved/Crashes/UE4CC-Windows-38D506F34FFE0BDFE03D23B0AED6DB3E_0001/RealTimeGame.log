@@ -1,0 +1,1115 @@
+﻿Log file open, 12/31/19 18:11:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RealTimeGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 11.248865
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/MisArchivos/UnrealEngine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.31-17.11.45:312][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.31-17.11.45:312][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.31-17.11.45:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.31-17.11.45:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.31-17.11.45:348][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.31-17.11.45:563][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.31-17.11.45:563][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2019.12.31-17.11.45:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2019.12.31-17.11.45:590][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.31-17.11.45:590][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.31-17.11.45:928][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.31-17.11.45:928][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.31-17.11.45:928][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2019.12.31-17.11.45:928][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2019.12.31-17.11.45:929][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.31-17.11.45:966][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.31-17.11.45:966][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.31-17.11.45:966][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Config/Windows/Engine.ini]
+[2019.12.31-17.11.46:075][  0]LogInit: Computer: LAPTOP-RJTE4B6M
+[2019.12.31-17.11.46:075][  0]LogInit: User: myself
+[2019.12.31-17.11.46:075][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.31-17.11.46:075][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.31-17.11.46:075][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.12.31-17.11.46:075][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.31-17.11.46:075][  0]LogMemory: Process Physical Memory: 107.13 MB used, 107.13 MB peak
+[2019.12.31-17.11.46:075][  0]LogMemory: Process Virtual Memory: 101.27 MB used, 101.27 MB peak
+[2019.12.31-17.11.46:075][  0]LogMemory: Physical Memory: 3247.60 MB used,  4786.70 MB free, 8034.30 MB total
+[2019.12.31-17.11.46:075][  0]LogMemory: Virtual Memory: 5159.21 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2019.12.31-17.11.46:084][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.31-17.11.50:810][  0]LogInit: Overriding language with editor language configuration option (en-GB).
+[2019.12.31-17.11.50:810][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.12.31-17.11.50:810][  0]LogInit: Using OS detected locale (es-ES).
+[2019.12.31-17.11.50:824][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.31-17.11.51:428][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.31-17.11.52:064][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.31-17.11.52:064][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.31-17.11.53:166][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.31-17.11.53:166][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2019.12.31-17.11.53:166][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2019.12.31-17.11.53:166][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.31-17.11.53:667][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.31-17.11.53:667][  0]LogD3D11RHI:       4029/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.31-17.11.53:680][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.31-17.11.53:680][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.31-17.11.53:682][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.31-17.11.53:682][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.31-17.11.53:682][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.31-17.11.53:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.31-17.11.53:740][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.31-17.11.53:740][  0]LogWindows: EnumDisplayDevices:
+[2019.12.31-17.11.53:741][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.31-17.11.53:741][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.31-17.11.53:741][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.31-17.11.53:741][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.31-17.11.53:742][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.12.31-17.11.53:742][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.31-17.11.53:742][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.12.31-17.11.53:742][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.12.31-17.11.53:742][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2019.12.31-17.11.53:807][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2019.12.31-17.11.53:810][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.31-17.11.54:152][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.31-17.11.55:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2019.12.31-17.11.55:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2019.12.31-17.11.55:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2019.12.31-17.11.55:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2019.12.31-17.11.55:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.31-17.11.55:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2019.12.31-17.11.55:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2019.12.31-17.11.55:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2019.12.31-17.11.55:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2019.12.31-17.11.55:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2019.12.31-17.11.55:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2019.12.31-17.11.55:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2019.12.31-17.11.55:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2019.12.31-17.11.55:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2019.12.31-17.11.55:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.31-17.11.55:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2019.12.31-17.11.55:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2019.12.31-17.11.55:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2019.12.31-17.11.55:538][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.31-17.11.55:615][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.31-17.11.56:297][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Intermediate/Shaders/WorkingDirectory/12628/).
+[2019.12.31-17.11.56:297][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/myself/AppData/Local/Temp/UnrealShaderWorkingDir/E1A208CD4BF111E66DC8E6A33F30917B/'.
+[2019.12.31-17.11.56:299][  0]LogXGEController: Cleaning working directory: C:/Users/myself/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.31-17.11.56:299][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.31-17.11.56:299][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.31-17.11.56:300][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.31-17.11.58:883][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.31-17.11.59:308][  0]LogDerivedDataCache: Loaded boot cache 0.42s 78MB C:/Users/myself/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2019.12.31-17.11.59:308][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/myself/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2019.12.31-17.11.59:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.31-17.11.59:308][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.31-17.11.59:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.31-17.11.59:308][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.31-17.11.59:372][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.31-17.11.59:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.31-17.11.59:372][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.31-17.11.59:409][  0]LogDerivedDataCache: Using Local data cache path C:/Users/myself/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.31-17.11.59:409][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.31-17.11.59:409][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.31-17.11.59:524][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.31-17.11.59:713][  0]LogSlate: Using FreeType 2.10.0
+[2019.12.31-17.11.59:850][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.31-17.12.00:795][  0]LogAssetRegistry: FAssetRegistry took 0.0068 seconds to start up
+[2019.12.31-17.12.05:575][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.31-17.12.08:533][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.31-17.12.08:533][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.31-17.12.08:533][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.31-17.12.08:534][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.31-17.12.08:534][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.31-17.12.09:560][  0]LogNetVersion: RealTimeGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2623926157)
+[2019.12.31-17.12.17:944][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.208713 seconds
+[2019.12.31-17.12.17:958][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2019.12.31-17.12.17:958][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2019.12.31-17.12.17:958][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.31-17.12.22:383][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.31-17.12.22:420][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.31-17.12.23:169][  0]SourceControl: Source control is disabled
+[2019.12.31-17.12.23:185][  0]SourceControl: Source control is disabled
+[2019.12.31-17.12.23:310][  0]SourceControl: Source control is disabled
+[2019.12.31-17.12.23:338][  0]SourceControl: Source control is disabled
+[2019.12.31-17.12.23:410][  0]SourceControl: Source control is disabled
+[2019.12.31-17.12.24:881][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.31-17.12.24:977][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2019.12.31-17.12.24:977][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2019.12.31-17.12.25:689][  0]LogOcInput: OculusInput pre-init called
+[2019.12.31-17.12.25:781][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.31-17.12.25:781][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.31-17.12.27:215][  0]LogEngine: Initializing Engine...
+[2019.12.31-17.12.27:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.31-17.12.27:448][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.022 s
+[2019.12.31-17.12.28:223][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.31-17.12.28:809][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.31-17.12.29:116][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.31-17.12.29:116][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.31-17.12.29:116][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.31-17.12.29:116][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.31-17.12.29:116][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.31-17.12.29:116][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.31-17.12.29:116][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.31-17.12.29:116][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.31-17.12.29:140][  0]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.31-17.12.29:140][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: Is Default: Yes
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: Channel Order:
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.31-17.12.29:300][  0]LogAudioMixer: Display: 1: FrontRight
+[2019.12.31-17.12.29:427][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.31-17.12.29:445][  0]LogInit: FAudioDevice initialized.
+[2019.12.31-17.12.29:445][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.31-17.12.29:594][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/myself/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2019.12.31-17.12.29:596][  0]LogInit: Texture streaming: Enabled
+[2019.12.31-17.12.29:920][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.31-17.12.29:920][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.31-17.12.29:921][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.31-17.12.31:021][  0]LogInit: Transaction tracking system initialized
+[2019.12.31-17.12.32:580][  0]BlueprintLog: New page: Editor Load
+[2019.12.31-17.12.39:868][  0]LocalizationService: Localization service is disabled
+[2019.12.31-17.12.46:636][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.31-17.12.46:636][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.31-17.12.48:121][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/' took 0.57s
+[2019.12.31-17.12.54:776][  0]SourceControl: Source control is disabled
+[2019.12.31-17.12.54:835][  0]Cmd: MAP LOAD FILE="../../../../../../MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.31-17.12.54:863][  0]LightingResults: New page: Lighting Build
+[2019.12.31-17.12.55:201][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-17.12.55:217][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.31-17.12.55:246][  0]MapCheck: New page: Map Check
+[2019.12.31-17.12.55:246][  0]LightingResults: New page: Lighting Build
+[2019.12.31-17.12.55:883][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.12.31-17.13.00:340][  0]LogPhysicsCore: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.12.31-17.13.00:352][  0]LogPhysicsCore: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.12.31-17.13.00:352][  0]LogPhysics: Warning: Failed to cook convex: /Game/Assets/Characters/Arrow.Arrow 0 (FlipX:1). The remaining elements will not get cooked.
+[2019.12.31-17.13.00:368][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Assets/Characters/Arrow.Arrow:BodySetup_0 when we are unable to.
+[2019.12.31-17.13.00:700][  0]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.31-17.13.01:762][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.31-17.13.02:075][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.31-17.13.02:075][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.31-17.13.02:075][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,344ms to complete.
+[2019.12.31-17.13.02:075][  0]LogFileHelpers: Loading map 'TestLevel' took 7.276
+[2019.12.31-17.13.04:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-17.13.04:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-17.13.04:267][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-17.13.04:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-17.13.04:372][  0]LogCollectionManager: Loaded 0 collections in 0.001835 seconds
+[2019.12.31-17.13.04:632][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Saved/Collections/' took 0.00s
+[2019.12.31-17.13.04:632][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Developers/myself/Collections/' took 0.00s
+[2019.12.31-17.13.04:632][  0]LogFileCache: Scanning file cache for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/Collections/' took 0.00s
+[2019.12.31-17.13.04:632][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3015 classes and 717 folders.
+[2019.12.31-17.13.04:706][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.31-17.13.06:176][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.31-17.13.06:417][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.12.31-17.13.07:593][  0]LogSlate: Took 0.024111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.31-17.13.07:610][  0]LogSlate: Took 0.012380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.31-17.13.07:650][  0]LogSlate: Took 0.019722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.31-17.13.08:328][  0]LogRenderer: Reallocating scene render targets to support 888x432 Format 10 NumSamples 1 (Frame:1).
+[2019.12.31-17.13.08:904][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.31-17.13.08:904][  0]LogLoad: (Engine Initialization) Total time: 128.26 seconds
+[2019.12.31-17.13.08:904][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.31-17.13.09:387][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.31-17.13.09:753][  0]LogSlate: Took 0.038175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.31-17.13.11:934][ 22]LogAssetRegistry: Asset discovery search completed in 71.1406 seconds
+[2019.12.31-17.13.11:938][ 22]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2019.12.31-17.13.15:063][ 89]LogFileCache: Retrieving MD5 hashes for directory 'D:/MiUsuario/Escritorio/EclipseStuff/tercero/SEV/- Propio/Unreal/1_unreal_rts/RealTimeGame/Content/' took 6.09s
+[2019.12.31-17.13.15:913][140]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-17.13.16:182][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-17.13.16:231][140]PIE: New page: PIE session: TestLevel (31 dic. 2019 19:13:16)
+[2019.12.31-17.13.16:271][140]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.31-17.13.16:272][140]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2019.12.31-17.13.16:272][140]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.12.31-17.13.16:275][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003154s)
+[2019.12.31-17.13.16:277][140]LogAIModule: Creating AISystem for world TestLevel
+[2019.12.31-17.13.16:293][140]LogPlayLevel: PIE: World Init took: (0.016909s)
+[2019.12.31-17.13.16:293][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.020271s)
+[2019.12.31-17.13.16:319][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.12.31-17.13.16:320][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.31-17.13.16:320][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.31-17.13.16:320][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.31-17.13.16:320][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.31-17.13.16:320][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.31-17.13.16:320][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.31-17.13.16:320][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.31-17.13.16:320][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.31-17.13.16:321][140]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.31-17.13.16:321][140]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: Is Default: Yes
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: Sample Rate: 48000
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: Channel Order:
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.31-17.13.16:326][140]LogAudioMixer: Display: 1: FrontRight
+[2019.12.31-17.13.16:342][140]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2019.12.31-17.13.16:344][140]LogInit: FAudioDevice initialized.
+[2019.12.31-17.13.16:455][140]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.31-17.13.16:467][140]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2019.12.31-18.13.16
+[2019.12.31-17.13.16:596][140]LogWorld: Bringing up level for play took: 0.129068
+[2019.12.31-17.13.16:596][140]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.31-17.13.16:843][140]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.31-17.13.17:093][140]LogBlueprintUserMessages: [Archer_2] Done!
+[2019.12.31-17.13.17:127][140]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,888
+[2019.12.31-17.13.20:498][333]LogBlueprintUserMessages: [Tower_2] mouse over
+[2019.12.31-17.13.21:081][368]LogBlueprintUserMessages: [Tower_2] mouse away
+[2019.12.31-17.13.21:432][387]LogBlueprintUserMessages: [Archer_C_0] Done!
+[2019.12.31-17.13.23:038][484]LogBlueprintUserMessages: [Player_C_0] moved
+[2019.12.31-17.13.26:259][677]LogBlueprintUserMessages: [Tower_C_0] mouse over
+[2019.12.31-17.13.26:476][690]LogBlueprintUserMessages: [Tower_C_0] mouse away
+[2019.12.31-17.13.26:776][708]LogBlueprintUserMessages: [Tower_C_0] mouse over
+[2019.12.31-17.13.27:009][722]LogBlueprintUserMessages: [Tower_C_0] mouse away
+[2019.12.31-17.13.27:660][761]LogBlueprintUserMessages: [Archer_C_1] Done!
+[2019.12.31-17.13.28:627][819]LogBlueprintUserMessages: [Player_C_0] moved
+[2019.12.31-17.13.30:927][957]LogBlueprintUserMessages: [Player_C_0] moved
+[2019.12.31-17.13.35:160][211]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.12.31-17.13.35:160][211]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.31-17.13.35:160][211]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.12.31-17.13.35:160][211]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.12.31-17.13.35:260][217]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:276][218]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:294][219]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:310][220]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:327][221]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:344][222]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:361][223]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:377][224]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:393][225]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:410][226]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:427][227]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:444][228]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:460][229]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:476][230]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:493][231]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:510][232]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:527][233]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:543][234]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:560][235]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:577][236]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:594][237]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:610][238]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:627][239]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:644][240]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:660][241]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:677][242]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:694][243]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:710][244]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:726][245]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:744][246]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:760][247]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:776][248]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:793][249]LogBlueprintUserMessages: [Player_C_0] moved
+[2019.12.31-17.13.35:794][249]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:810][250]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:827][251]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:844][252]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:860][253]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:877][254]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:893][255]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:910][256]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:926][257]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:943][258]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:960][259]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:976][260]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.35:993][261]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:010][262]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:027][263]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:043][264]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:060][265]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:076][266]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:094][267]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:110][268]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:126][269]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:143][270]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:160][271]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:177][272]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:194][273]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:210][274]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:227][275]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:243][276]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:260][277]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:277][278]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:293][279]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:310][280]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:327][281]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:344][282]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:360][283]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:376][284]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:394][285]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:410][286]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:427][287]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:444][288]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:460][289]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:477][290]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:494][291]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:510][292]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:527][293]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:543][294]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:560][295]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:577][296]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:594][297]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:610][298]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:627][299]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:644][300]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:660][301]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:677][302]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:693][303]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:710][304]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:727][305]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:744][306]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:761][307]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:777][308]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:794][309]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:810][310]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:827][311]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:844][312]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:860][313]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:878][314]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:894][315]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:910][316]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:927][317]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:944][318]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:961][319]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:977][320]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.36:993][321]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:010][322]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:026][323]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:044][324]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:061][325]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:077][326]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:094][327]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:110][328]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:127][329]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:143][330]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:160][331]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:176][332]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:193][333]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:210][334]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:227][335]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:244][336]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:261][337]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:277][338]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:293][339]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:310][340]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:327][341]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:343][342]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:360][343]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:377][344]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:395][345]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:411][346]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:427][347]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:443][348]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:461][349]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:477][350]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:494][351]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:511][352]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:527][353]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:543][354]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:560][355]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:577][356]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:595][357]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:611][358]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:628][359]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:644][360]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:661][361]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.12.31-17.13.37:661][361]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.31-17.13.37:661][361]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.12.31-17.13.37:661][361]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.12.31-17.13.37:662][361]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:677][362]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:695][363]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:711][364]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:728][365]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:746][366]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:761][367]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:761][367]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:778][368]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:778][368]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:796][369]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:796][369]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:811][370]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:811][370]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:828][371]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:828][371]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:846][372]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:846][372]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:861][373]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:862][373]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:878][374]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:878][374]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:895][375]LogBlueprintUserMessages: [Hut_2] mouse over
+[2019.12.31-17.13.37:896][375]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:896][375]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:912][376]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:912][376]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:929][377]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:929][377]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:945][378]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:945][378]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:963][379]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:963][379]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:978][380]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:978][380]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.37:995][381]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.37:995][381]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:011][382]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:011][382]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:029][383]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:029][383]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:045][384]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:045][384]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:061][385]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:062][385]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:078][386]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:078][386]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:095][387]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:095][387]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:111][388]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:111][388]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:128][389]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:129][389]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:144][390]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:144][390]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:161][391]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:162][391]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:178][392]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:178][392]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:196][393]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:196][393]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:211][394]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:211][394]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:229][395]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:229][395]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:243][396]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:244][396]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:262][397]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:262][397]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:278][398]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:279][398]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:295][399]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:295][399]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:310][400]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:312][400]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:329][401]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:329][401]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:344][402]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:344][402]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:362][403]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:362][403]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:378][404]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:378][404]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:395][405]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:395][405]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:411][406]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:411][406]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:429][407]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:429][407]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:445][408]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:445][408]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:462][409]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:462][409]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:478][410]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:478][410]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:495][411]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:495][411]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:510][412]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:510][412]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:528][413]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:528][413]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:545][414]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:545][414]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:561][415]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:561][415]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:578][416]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:579][416]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:597][417]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:597][417]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:611][418]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:612][418]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:628][419]LogBlueprintUserMessages: [Hut_2] mouse away
+[2019.12.31-17.13.38:629][419]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:629][419]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:645][420]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:645][420]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:662][421]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:662][421]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:678][422]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:678][422]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:695][423]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:695][423]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:712][424]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:712][424]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:729][425]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:729][425]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:745][426]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:745][426]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:763][427]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:763][427]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:778][428]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:779][428]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:796][429]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:796][429]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:812][430]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:812][430]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:829][431]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:829][431]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:846][432]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:846][432]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:862][433]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:862][433]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:878][434]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:878][434]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:895][435]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:895][435]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:912][436]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:912][436]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:929][437]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:929][437]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:946][438]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:946][438]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:962][439]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:962][439]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:979][440]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:979][440]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.38:995][441]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.38:996][441]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:011][442]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:012][442]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:029][443]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:029][443]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:044][444]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:044][444]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:061][445]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:061][445]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:079][446]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:079][446]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:094][447]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:094][447]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:111][448]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:111][448]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:128][449]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:128][449]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:145][450]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:145][450]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:161][451]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:162][451]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:179][452]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:179][452]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:195][453]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:195][453]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:211][454]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:211][454]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:228][455]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:228][455]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:245][456]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:245][456]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:261][457]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:261][457]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:279][458]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:279][458]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:295][459]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:295][459]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:311][460]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:311][460]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:329][461]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:329][461]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:345][462]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:346][462]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:362][463]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:362][463]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:379][464]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:379][464]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:395][465]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:395][465]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:412][466]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:412][466]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:428][467]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:429][467]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:445][468]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:445][468]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:462][469]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:462][469]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:479][470]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:479][470]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:496][471]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:496][471]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:512][472]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:512][472]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:529][473]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:529][473]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:546][474]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:546][474]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:562][475]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:562][475]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:579][476]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:579][476]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:595][477]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:595][477]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:612][478]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:612][478]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:628][479]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:628][479]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:645][480]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:645][480]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:662][481]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:662][481]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:678][482]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:678][482]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:695][483]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:695][483]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:711][484]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:711][484]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:728][485]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:728][485]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:745][486]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:745][486]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:762][487]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:762][487]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:779][488]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:779][488]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:795][489]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:795][489]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:812][490]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:812][490]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:828][491]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:828][491]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:845][492]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:845][492]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:862][493]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:862][493]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:879][494]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:879][494]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:894][495]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:894][495]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:912][496]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:912][496]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:928][497]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:928][497]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:945][498]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:945][498]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:962][499]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:962][499]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:979][500]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:979][500]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.39:995][501]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.39:995][501]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:012][502]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:012][502]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:028][503]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:028][503]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:045][504]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:045][504]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:061][505]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:061][505]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:079][506]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:079][506]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:095][507]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:095][507]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:111][508]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:111][508]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:128][509]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:128][509]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:145][510]LogBlueprintUserMessages: [Arrow_C_1] bad
+[2019.12.31-17.13.40:145][510]LogBlueprintUserMessages: [Arrow_C_0] bad
+[2019.12.31-17.13.40:161][511]LogBlueprintUserMessages: [Player_C_0] moved
